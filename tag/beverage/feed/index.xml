@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Beverage &#8211; Vamos a Bailar</title>
+	<atom:link href="/tag/beverage/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A traveling blog for discovering South America</description>
+	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<title>Beverage &#8211; Vamos a Bailar</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bogota and the salt cathedral</title>
+		<link>/travel/bogota-salt-cathedral/%20</link>
+		<comments>/travel/bogota-salt-cathedral/%20#respond</comments>
+		<pubDate>Mon, 31 Jul 2017 04:38:23 +0000</pubDate>
+		<dc:creator><![CDATA[eric]]></dc:creator>
+				<category><![CDATA[Colombia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Beverage]]></category>
+		<category><![CDATA[Churches]]></category>
+		<category><![CDATA[Dancing]]></category>
+		<category><![CDATA[Graffiti]]></category>
+
+		<guid isPermaLink="false">/?p=1348</guid>
+		<description><![CDATA[<p>The salt cathedral This impressive building is located 47 kms from Bogota in another town called Zipaquira. It has been built inside a salt mine currently still under activity. Thus, the cathedral is below 180 meters of earth. An incredible lighting effect made the rooms very beautiful. In the colossus Colombian capital A really big [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/travel/bogota-salt-cathedral/%20">Bogota and the salt cathedral</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+]]></description>
+		<wfw:commentRss>/travel/bogota-salt-cathedral/%20/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bolivian specialties</title>
+		<link>/travel/bolivia/bolivian-specialties/%20</link>
+		<comments>/travel/bolivia/bolivian-specialties/%20#respond</comments>
+		<pubDate>Fri, 16 Jun 2017 17:08:45 +0000</pubDate>
+		<dc:creator><![CDATA[eric]]></dc:creator>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Beverage]]></category>
+		<category><![CDATA[Cocktails]]></category>
+		<category><![CDATA[Corn]]></category>
+		<category><![CDATA[Food]]></category>
+
+		<guid isPermaLink="false">/?p=1069</guid>
+		<description><![CDATA[<p>Some of my nice culinary experiments Food Charquekan Dried beef, salt cheese, egg and white corn. Pique macho A meal with pieces of beef, fried potatoes, onion, sausage, tomatoes, peppers, spicy peppers and egg. Aji de Fideo Meal with pasta, chopped beef, vegetables Picante de Lengua Beef tongue. The &#8220;Picante&#8221; is the type of way [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/travel/bolivia/bolivian-specialties/%20">Bolivian specialties</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+]]></description>
+		<wfw:commentRss>/travel/bolivia/bolivian-specialties/%20/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>12 specialties from the Chilean kitchen</title>
+		<link>/travel/chile/chilean-kitchen/%20</link>
+		<comments>/travel/chile/chilean-kitchen/%20#comments</comments>
+		<pubDate>Sat, 04 Feb 2017 03:07:28 +0000</pubDate>
+		<dc:creator><![CDATA[eric]]></dc:creator>
+				<category><![CDATA[Chile]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Beverage]]></category>
+		<category><![CDATA[Corn]]></category>
+		<category><![CDATA[Food]]></category>
+		<category><![CDATA[MomsCooking]]></category>
+
+		<guid isPermaLink="false">/?p=434</guid>
+		<description><![CDATA[<p>Chile is not only wineries, nature or beach but also a typical kitchen. Here, I present all the typical specialties I have tried. From corn Chile is a huge producer of corn and hence the traditional kitchen uses it a lot. Pastel de Choclo A gratin made mostly with corn. It also contains chicken meat, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/travel/chile/chilean-kitchen/%20">12 specialties from the Chilean kitchen</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+]]></description>
+		<wfw:commentRss>/travel/chile/chilean-kitchen/%20/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

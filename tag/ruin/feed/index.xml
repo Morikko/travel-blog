@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ruin &#8211; Vamos a Bailar</title>
+	<atom:link href="/tag/ruin/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A traveling blog for discovering South America</description>
+	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<title>Ruin &#8211; Vamos a Bailar</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cuenca &#038; the Ingapirca ruin</title>
+		<link>/travel/cuenca-ingapirca-ruin/%20</link>
+		<comments>/travel/cuenca-ingapirca-ruin/%20#respond</comments>
+		<pubDate>Fri, 30 Jun 2017 17:33:42 +0000</pubDate>
+		<dc:creator><![CDATA[eric]]></dc:creator>
+				<category><![CDATA[Dance]]></category>
+		<category><![CDATA[Ecuador]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Candy]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[Ruin]]></category>
+
+		<guid isPermaLink="false">/?p=1125</guid>
+		<description><![CDATA[<p>Cuenca A marvelous city I really loved this city. Rather quiet and the city center was beautiful. At each corner, I found nice buildings. My hostel was a bit away from the city center. However, a bit high, I could see the whole city where the churches dominated the whole. Feria in Cuenca During the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/travel/cuenca-ingapirca-ruin/%20">Cuenca &#038; the Ingapirca ruin</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+]]></description>
+		<wfw:commentRss>/travel/cuenca-ingapirca-ruin/%20/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Island &#8211; Vamos a Bailar</title>
+	<atom:link href="/tag/island/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A traveling blog for discovering South America</description>
+	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<title>Island &#8211; Vamos a Bailar</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Puno: Uros and Taquile Islands</title>
+		<link>/travel/puno-uros-taquile-islands/%20</link>
+		<comments>/travel/puno-uros-taquile-islands/%20#respond</comments>
+		<pubDate>Sun, 18 Jun 2017 18:27:37 +0000</pubDate>
+		<dc:creator><![CDATA[eric]]></dc:creator>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[ArtificialIsland]]></category>
+		<category><![CDATA[BoatTour]]></category>
+		<category><![CDATA[Island]]></category>
+		<category><![CDATA[Lake]]></category>
+		<category><![CDATA[SouthFrance]]></category>
+
+		<guid isPermaLink="false">/?p=1086</guid>
+		<description><![CDATA[<p>Uros Islands Those islands are made of straw and reed. The community counts tens of islands where around 5 families live on each one. Those islands are located only 20 minutes from the city of Puno. The original indigenous doesn&#8217;t exist anymore, however, Peruvian people has continued the tradition. The explanations were interesting in order [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/travel/puno-uros-taquile-islands/%20">Puno: Uros and Taquile Islands</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+]]></description>
+		<wfw:commentRss>/travel/puno-uros-taquile-islands/%20/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

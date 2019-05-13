@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fortress &#8211; Vamos a Bailar</title>
+	<atom:link href="/tag/fortress/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A traveling blog for discovering South America</description>
+	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<title>Fortress &#8211; Vamos a Bailar</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Beaches in Uruguay: Punta del Diablo and Cabo Polonio</title>
+		<link>/travel/beach-uruguay-punta-del-diablo/%20</link>
+		<comments>/travel/beach-uruguay-punta-del-diablo/%20#respond</comments>
+		<pubDate>Wed, 26 Apr 2017 16:12:08 +0000</pubDate>
+		<dc:creator><![CDATA[eric]]></dc:creator>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uruguay]]></category>
+		<category><![CDATA[Beach]]></category>
+		<category><![CDATA[Fortress]]></category>
+		<category><![CDATA[Relax]]></category>
+		<category><![CDATA[Seafood]]></category>
+		<category><![CDATA[Truck]]></category>
+
+		<guid isPermaLink="false">/?p=870</guid>
+		<description><![CDATA[<p>Punta del Diablo I did a small break at Punta del Diablo, a small town near the sea. The beaches are beautiful and thanks to the end of the vacation quiet! A nearby park called Santa Tereza is worth the visit. At the North End, there is an impressive fortress. Unfortunately, it was closed the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/travel/beach-uruguay-punta-del-diablo/%20">Beaches in Uruguay: Punta del Diablo and Cabo Polonio</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+]]></description>
+		<wfw:commentRss>/travel/beach-uruguay-punta-del-diablo/%20/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

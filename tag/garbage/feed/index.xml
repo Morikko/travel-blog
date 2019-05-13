@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Garbage &#8211; Vamos a Bailar</title>
+	<atom:link href="/tag/garbage/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A traveling blog for discovering South America</description>
+	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<title>Garbage &#8211; Vamos a Bailar</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tupiza on red rocks</title>
+		<link>/travel/tupiza-red-rocks/%20</link>
+		<comments>/travel/tupiza-red-rocks/%20#respond</comments>
+		<pubDate>Thu, 15 Jun 2017 17:22:16 +0000</pubDate>
+		<dc:creator><![CDATA[eric]]></dc:creator>
+				<category><![CDATA[Bolivia]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Garbage]]></category>
+		<category><![CDATA[RedRocks]]></category>
+		<category><![CDATA[Trekking]]></category>
+
+		<guid isPermaLink="false">/?p=962</guid>
+		<description><![CDATA[<p>Arriving late I left Sucre in the morning, early. My first bus took me until Potosi, where I changed midday for another bus. This second and last bus drove me until Tupiza. The second bus is almost 2 times longer than the first one: 5 hours. Hopefully, the landscapes are really beautiful. This will be [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/travel/tupiza-red-rocks/%20">Tupiza on red rocks</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+]]></description>
+		<wfw:commentRss>/travel/tupiza-red-rocks/%20/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

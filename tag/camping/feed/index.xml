@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Camping &#8211; Vamos a Bailar</title>
+	<atom:link href="/tag/camping/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>A traveling blog for discovering South America</description>
+	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<title>Camping &#8211; Vamos a Bailar</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cali and the salsa culture</title>
+		<link>/travel/cali-salsa-culture/%20</link>
+		<comments>/travel/cali-salsa-culture/%20#respond</comments>
+		<pubDate>Sat, 26 Aug 2017 02:08:30 +0000</pubDate>
+		<dc:creator><![CDATA[eric]]></dc:creator>
+				<category><![CDATA[Colombia]]></category>
+		<category><![CDATA[Dance]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Bachata]]></category>
+		<category><![CDATA[Camping]]></category>
+		<category><![CDATA[Festival]]></category>
+		<category><![CDATA[Mountains]]></category>
+		<category><![CDATA[PacificMusic]]></category>
+		<category><![CDATA[Salsa]]></category>
+		<category><![CDATA[Trekking]]></category>
+
+		<guid isPermaLink="false">/?p=1391</guid>
+		<description><![CDATA[<p>I went to Cali for 10 days, I stayed 20 finally. I found in love with the city, not for the beauty, but for the spirit. In Cali, dancing salsa is part of the culture. Moreover, people are really friendly and the city didn&#8217;t make you feel like in a big one. In only 20 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/travel/cali-salsa-culture/%20">Cali and the salsa culture</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+]]></description>
+		<wfw:commentRss>/travel/cali-salsa-culture/%20/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Adventure on top of the mountains: Trekking Cruce Sierra de Marquesado in San Juan</title>
+		<link>/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20</link>
+		<comments>/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20#respond</comments>
+		<pubDate>Tue, 28 Feb 2017 21:35:51 +0000</pubDate>
+		<dc:creator><![CDATA[eric]]></dc:creator>
+				<category><![CDATA[Argentina]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Camping]]></category>
+		<category><![CDATA[Lake]]></category>
+		<category><![CDATA[Mountains]]></category>
+		<category><![CDATA[SanJuan]]></category>
+		<category><![CDATA[Trekking]]></category>
+		<category><![CDATA[Vineyard]]></category>
+
+		<guid isPermaLink="false">/?p=767</guid>
+		<description><![CDATA[<p>Ready to discover the region of San Juan with a trek crossing from one valley to another one. It is among my best treks mainly for two reasons: the variety of the landscapes and the adventurous side of the track. Trekking Cruce Sierra de Marquesado The walk The trekking Cruce Sierra de Marquesado is a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20">Adventure on top of the mountains: Trekking Cruce Sierra de Marquesado in San Juan</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+]]></description>
+		<wfw:commentRss>/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
