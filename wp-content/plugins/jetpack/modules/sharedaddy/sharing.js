@@ -27,13 +27,13 @@ if ( sharing_js_options && sharing_js_options.counts ) {
 					// Pinterest, like LinkedIn, handles share counts for both http and https
 					pinterest: [
 						window.location.protocol +
-							'//api.pinterest.com/v1/urls/count.json?callback=WPCOMSharing.update_pinterest_count&url=' +
+							'http://api.pinterest.com/v1/urls/count.json?callback=WPCOMSharing.update_pinterest_count&url=' +
 							encodeURIComponent( url )
 					],
 					// Facebook protocol summing has been shown to falsely double counts, so we only request the current URL
 					facebook: [
 						window.location.protocol +
-							'//graph.facebook.com/?callback=WPCOMSharing.update_facebook_count&ids=' +
+							'http://graph.facebook.com/?callback=WPCOMSharing.update_facebook_count&ids=' +
 							encodeURIComponent( url )
 					]
 				};
@@ -110,7 +110,7 @@ if ( sharing_js_options && sharing_js_options.counts ) {
 			return '10K+';
 		},
 		bump_sharing_count_stat: function( service ) {
-			new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv&x_sharing-count-request=' + service + '&r=' + Math.random();
+			new Image().src = document.location.protocol + 'http://pixel.wp.com/g.gif?v=wpcom-no-pv&x_sharing-count-request=' + service + '&r=' + Math.random();
 		}
 	};
 }
