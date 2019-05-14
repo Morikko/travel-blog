@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Chile &#8211; Vamos a Bailar</title>
-	<atom:link href="/category/travel/chile/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/category/travel/chile/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Chile &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>12 specialties from the Chilean kitchen</title>
-		<link>/travel/chile/chilean-kitchen/%20</link>
-		<comments>/travel/chile/chilean-kitchen/%20#comments</comments>
+		<link>/travel-blog/travel/chile/chilean-kitchen/%20</link>
+		<comments>/travel-blog/travel/chile/chilean-kitchen/%20#comments</comments>
 		<pubDate>Sat, 04 Feb 2017 03:07:28 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -39,17 +39,17 @@
 		<category><![CDATA[Food]]></category>
 		<category><![CDATA[MomsCooking]]></category>
 
-		<guid isPermaLink="false">/?p=434</guid>
+		<guid isPermaLink="false">/travel-blog/?p=434</guid>
 		<description><![CDATA[<p>Chile is not only wineries, nature or beach but also a typical kitchen. Here, I present all the typical specialties I have tried. From corn Chile is a huge producer of corn and hence the traditional kitchen uses it a lot. Pastel de Choclo A gratin made mostly with corn. It also contains chicken meat, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/chile/chilean-kitchen/">12 specialties from the Chilean kitchen</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/chile/chilean-kitchen/">12 specialties from the Chilean kitchen</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/chile/chilean-kitchen/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/chile/chilean-kitchen/content/feed</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>Santiago wine regions only by bus</title>
-		<link>/travel/santiago-wine-regions-bus/%20</link>
-		<comments>/travel/santiago-wine-regions-bus/%20#respond</comments>
+		<link>/travel-blog/travel/santiago-wine-regions-bus/%20</link>
+		<comments>/travel-blog/travel/santiago-wine-regions-bus/%20#respond</comments>
 		<pubDate>Wed, 01 Feb 2017 02:16:12 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -58,17 +58,17 @@
 		<category><![CDATA[Organic]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=641</guid>
+		<guid isPermaLink="false">/travel-blog/?p=641</guid>
 		<description><![CDATA[<p>Santiago is surrounded by 5 different wine regions. After Colchagua region, I discover 2 other one: Maipo and Casablanca. Everything is feasible only by bus and public transport! For this second stay in Santiago, I couldn&#8217;t sleep at my friend&#8217;s place. Thus, I slept in an hostel in Bellavista district called Gnomo Hostel. It is [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/santiago-wine-regions-bus/">Santiago wine regions only by bus</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/santiago-wine-regions-bus/">Santiago wine regions only by bus</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/santiago-wine-regions-bus/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/santiago-wine-regions-bus/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Colchagua wine region on a bus ride</title>
-		<link>/travel/colchagua-wine-region-bus-ride/%20</link>
-		<comments>/travel/colchagua-wine-region-bus-ride/%20#comments</comments>
+		<link>/travel-blog/travel/colchagua-wine-region-bus-ride/%20</link>
+		<comments>/travel-blog/travel/colchagua-wine-region-bus-ride/%20#comments</comments>
 		<pubDate>Tue, 31 Jan 2017 18:15:15 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -76,17 +76,17 @@
 		<category><![CDATA[Arts]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=501</guid>
+		<guid isPermaLink="false">/travel-blog/?p=501</guid>
 		<description><![CDATA[<p>Between Pichilemu and Santiago, I decided to do a break and taste wines in the amazing region of Colchagua. In this article, I explain the smart way for doing it without any car. Also, you will save money and time. And of course, I add my recommendations of what to visit. Colchagua Valley This is [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/colchagua-wine-region-bus-ride/">Colchagua wine region on a bus ride</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/colchagua-wine-region-bus-ride/">Colchagua wine region on a bus ride</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/colchagua-wine-region-bus-ride/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/colchagua-wine-region-bus-ride/content/feed</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>A typical surfing day in Pichilemu</title>
-		<link>/travel/chile/typical-surfing-day-pichilemu/%20</link>
-		<comments>/travel/chile/typical-surfing-day-pichilemu/%20#respond</comments>
+		<link>/travel-blog/travel/chile/typical-surfing-day-pichilemu/%20</link>
+		<comments>/travel-blog/travel/chile/typical-surfing-day-pichilemu/%20#respond</comments>
 		<pubDate>Sun, 29 Jan 2017 16:37:53 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -95,17 +95,17 @@
 		<category><![CDATA[Chill]]></category>
 		<category><![CDATA[Surfing]]></category>
 
-		<guid isPermaLink="false">/?p=552</guid>
+		<guid isPermaLink="false">/travel-blog/?p=552</guid>
 		<description><![CDATA[<p>My last week in Santiago was tough. The reasons are I was sick and the temperature was 37 degrees every day. Thus, I am exhausted and fed up with the heat. I want only to escape the heat and pollution of the city for resting. I have been recommended Pichilemu. Preparation The city It costs [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/chile/typical-surfing-day-pichilemu/">A typical surfing day in Pichilemu</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/chile/typical-surfing-day-pichilemu/">A typical surfing day in Pichilemu</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/chile/typical-surfing-day-pichilemu/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/chile/typical-surfing-day-pichilemu/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>One day in Valparaiso &#038; Viña del Mar</title>
-		<link>/travel/day-valparaiso-vina-del-mar/%20</link>
-		<comments>/travel/day-valparaiso-vina-del-mar/%20#respond</comments>
+		<link>/travel-blog/travel/day-valparaiso-vina-del-mar/%20</link>
+		<comments>/travel-blog/travel/day-valparaiso-vina-del-mar/%20#respond</comments>
 		<pubDate>Sun, 29 Jan 2017 15:19:25 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -115,17 +115,17 @@
 		<category><![CDATA[Food]]></category>
 		<category><![CDATA[Graffiti]]></category>
 
-		<guid isPermaLink="false">/?p=432</guid>
+		<guid isPermaLink="false">/travel-blog/?p=432</guid>
 		<description><![CDATA[<p>I arrived at 8 in the morning in Santiago from Pucon. My friend took me from the terminal and we went to his home. Just the time to change me and ate a breakfast. Next, we took the car directly to Valparaiso. After one hour of driving in a dry landscape, we reached the city. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/day-valparaiso-vina-del-mar/">One day in Valparaiso &#038; Viña del Mar</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/day-valparaiso-vina-del-mar/">One day in Valparaiso &#038; Viña del Mar</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/day-valparaiso-vina-del-mar/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/day-valparaiso-vina-del-mar/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>How to enjoy your stay in Santiago</title>
-		<link>/travel/enjoy-stay-santiago/%20</link>
-		<comments>/travel/enjoy-stay-santiago/%20#respond</comments>
+		<link>/travel-blog/travel/enjoy-stay-santiago/%20</link>
+		<comments>/travel-blog/travel/enjoy-stay-santiago/%20#respond</comments>
 		<pubDate>Sat, 28 Jan 2017 23:54:21 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -143,17 +143,17 @@
 		<category><![CDATA[Surf]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=435</guid>
+		<guid isPermaLink="false">/travel-blog/?p=435</guid>
 		<description><![CDATA[<p>Santiago is a huge city, almost half of the population of Chile lives there. Big, hot in summer and polluted, Santiago has a lot for frightening. However, I stayed a long time in Santiago. The main reason is that I have met a lot of friends during my last student exchange. But not only my [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Trekking in the region of Pucón</title>
-		<link>/travel/trekking-region-pucon/%20</link>
-		<comments>/travel/trekking-region-pucon/%20#respond</comments>
+		<link>/travel-blog/travel/trekking-region-pucon/%20</link>
+		<comments>/travel-blog/travel/trekking-region-pucon/%20#respond</comments>
 		<pubDate>Sat, 28 Jan 2017 17:51:46 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -164,17 +164,17 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Volcano]]></category>
 
-		<guid isPermaLink="false">/?p=273</guid>
+		<guid isPermaLink="false">/travel-blog/?p=273</guid>
 		<description><![CDATA[<p>On Christmas, I felt my first earthquake in Castro. For the new year, I want to reach Santiago to be with a local friend. The schedule lets me only a few days for doing a stop in the middle. There is this city called Pucón. A renowned place for trekking and relaxing in hot springs. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/trekking-region-pucon/">Trekking in the region of Pucón</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/trekking-region-pucon/">Trekking in the region of Pucón</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/trekking-region-pucon/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/trekking-region-pucon/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>A Christmas and an earthquake on Chiloé island</title>
-		<link>/travel/christmas-earthquake-chiloe-island/%20</link>
-		<comments>/travel/christmas-earthquake-chiloe-island/%20#respond</comments>
+		<link>/travel-blog/travel/christmas-earthquake-chiloe-island/%20</link>
+		<comments>/travel-blog/travel/christmas-earthquake-chiloe-island/%20#respond</comments>
 		<pubDate>Mon, 23 Jan 2017 21:09:37 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -183,17 +183,17 @@
 		<category><![CDATA[Earthquake]]></category>
 		<category><![CDATA[Running]]></category>
 
-		<guid isPermaLink="false">/?p=275</guid>
+		<guid isPermaLink="false">/travel-blog/?p=275</guid>
 		<description><![CDATA[<p>The last 10 days on the Carretera Austral were adventurous. Now, it is Christmas and time for relaxing. I have decided to be in Castro on Chiloé island as it looks beautiful and peaceful. Peaceful ?! I won&#8217;t say it again after the Christmas I have spent. My trembling Christmas A lonely celebration Usually, I [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/christmas-earthquake-chiloe-island/">A Christmas and an earthquake on Chiloé island</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/christmas-earthquake-chiloe-island/">A Christmas and an earthquake on Chiloé island</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/christmas-earthquake-chiloe-island/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/christmas-earthquake-chiloe-island/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The incredible Pumalin Park in Chaitén</title>
-		<link>/travel/incredible-pumalin-park-chaiten/%20</link>
-		<comments>/travel/incredible-pumalin-park-chaiten/%20#comments</comments>
+		<link>/travel-blog/travel/incredible-pumalin-park-chaiten/%20</link>
+		<comments>/travel-blog/travel/incredible-pumalin-park-chaiten/%20#comments</comments>
 		<pubDate>Sat, 21 Jan 2017 19:02:58 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -203,17 +203,17 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Volcano]]></category>
 
-		<guid isPermaLink="false">/?p=267</guid>
+		<guid isPermaLink="false">/travel-blog/?p=267</guid>
 		<description><![CDATA[<p>After struggling to hitchhike under the rain from Coyhaique, I finally arrive in Chaitén. This small town, devastated in 2008 due to an eruption, is now rising from its ashes. The famous activity is the Pumalín park with a unique vegetation and of course volcanoes. Pumalín park The park is a private one owned by [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/incredible-pumalin-park-chaiten/">The incredible Pumalin Park in Chaitén</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/incredible-pumalin-park-chaiten/">The incredible Pumalin Park in Chaitén</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/incredible-pumalin-park-chaiten/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/incredible-pumalin-park-chaiten/content/feed</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>The hitchhiking challenge around Puyuhuapi</title>
-		<link>/travel/puyuhuapi-hitchking-challenge/%20</link>
-		<comments>/travel/puyuhuapi-hitchking-challenge/%20#respond</comments>
+		<link>/travel-blog/travel/puyuhuapi-hitchking-challenge/%20</link>
+		<comments>/travel-blog/travel/puyuhuapi-hitchking-challenge/%20#respond</comments>
 		<pubDate>Thu, 19 Jan 2017 23:03:51 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -221,11 +221,11 @@
 		<category><![CDATA[Hitchhiking]]></category>
 		<category><![CDATA[Waiting]]></category>
 
-		<guid isPermaLink="false">/?p=279</guid>
+		<guid isPermaLink="false">/travel-blog/?p=279</guid>
 		<description><![CDATA[<p>When you are traveling, everything is not going as you want it. Sometimes in a good way and more rarely in a bad way. The part around Puyuhuapi goes bad. Not only telling the story, this article is focusing on hitchhiking on the Carretera Austral. From Cerro Castillo to Coyhaique in a split second My [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/puyuhuapi-hitchking-challenge/">The hitchhiking challenge around Puyuhuapi</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/puyuhuapi-hitchking-challenge/">The hitchhiking challenge around Puyuhuapi</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/puyuhuapi-hitchking-challenge/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/puyuhuapi-hitchking-challenge/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

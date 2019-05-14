@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Wine &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/wine/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/wine/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Wine &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Tasting on the road wine of San Juan</title>
-		<link>/travel/tasting-on-the-road-wine-of-san-juan/%20</link>
-		<comments>/travel/tasting-on-the-road-wine-of-san-juan/%20#respond</comments>
+		<link>/travel-blog/travel/tasting-on-the-road-wine-of-san-juan/%20</link>
+		<comments>/travel-blog/travel/tasting-on-the-road-wine-of-san-juan/%20#respond</comments>
 		<pubDate>Wed, 22 Feb 2017 19:54:25 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -40,17 +40,17 @@
 		<category><![CDATA[SanJuan]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=761</guid>
+		<guid isPermaLink="false">/travel-blog/?p=761</guid>
 		<description><![CDATA[<p>The region of San Juan is an important wine producing region like Mendoza. While I visited many wineries in Mendoza, I just decided to visit two in San Juan. I haven&#8217;t much time with the other activities I did. General information All the wineries are reachable with public bus. The cost of a single ticket [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/tasting-on-the-road-wine-of-san-juan/">Tasting on the road wine of San Juan</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/tasting-on-the-road-wine-of-san-juan/">Tasting on the road wine of San Juan</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/tasting-on-the-road-wine-of-san-juan/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/tasting-on-the-road-wine-of-san-juan/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Discovering San Juan region between vineyards and mountains</title>
-		<link>/travel/san-juan-region/%20</link>
-		<comments>/travel/san-juan-region/%20#respond</comments>
+		<link>/travel-blog/travel/san-juan-region/%20</link>
+		<comments>/travel-blog/travel/san-juan-region/%20#respond</comments>
 		<pubDate>Tue, 21 Feb 2017 21:13:32 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -64,17 +64,17 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=675</guid>
+		<guid isPermaLink="false">/travel-blog/?p=675</guid>
 		<description><![CDATA[<p>San Juan located 200 kms from Mendoza. Beyond the similarities with Mendoza due to the proximity, the region of San Juan has its own particularities. Many mountains and vineyard to discover that create incredible landscapes. Discovering San Juan region You can reach San Juan from Mendoza with a bus that costs 185AR$ and takes 2h30. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/san-juan-region/">Discovering San Juan region between vineyards and mountains</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/san-juan-region/">Discovering San Juan region between vineyards and mountains</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/san-juan-region/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/san-juan-region/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Improve your tasting skills in Lujan de Cuyo Mendoza</title>
-		<link>/travel/tasting-lujan-de-cuyo-mendoza/%20</link>
-		<comments>/travel/tasting-lujan-de-cuyo-mendoza/%20#respond</comments>
+		<link>/travel-blog/travel/tasting-lujan-de-cuyo-mendoza/%20</link>
+		<comments>/travel-blog/travel/tasting-lujan-de-cuyo-mendoza/%20#respond</comments>
 		<pubDate>Thu, 16 Feb 2017 18:15:46 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -86,17 +86,17 @@
 		<category><![CDATA[Wine]]></category>
 		<category><![CDATA[Winemaker]]></category>
 
-		<guid isPermaLink="false">/?p=667</guid>
+		<guid isPermaLink="false">/travel-blog/?p=667</guid>
 		<description><![CDATA[<p>I did two trips to the valley of Lujan de Cuyo. One for trying an educational tasting in the winery Dolium. Where the owner is aside you and teach you how to improve your tasting methods. The other one for discovering among the best of the valley through classical tastings. An educational tasting in winery [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/tasting-lujan-de-cuyo-mendoza/">Improve your tasting skills in Lujan de Cuyo Mendoza</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/tasting-lujan-de-cuyo-mendoza/">Improve your tasting skills in Lujan de Cuyo Mendoza</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/tasting-lujan-de-cuyo-mendoza/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/tasting-lujan-de-cuyo-mendoza/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>A bike tour in the wineries of Mendoza</title>
-		<link>/travel/bike-tour-wineries-mendoza/%20</link>
-		<comments>/travel/bike-tour-wineries-mendoza/%20#respond</comments>
+		<link>/travel-blog/travel/bike-tour-wineries-mendoza/%20</link>
+		<comments>/travel-blog/travel/bike-tour-wineries-mendoza/%20#respond</comments>
 		<pubDate>Sun, 12 Feb 2017 03:18:30 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -104,17 +104,17 @@
 		<category><![CDATA[Bike]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=663</guid>
+		<guid isPermaLink="false">/travel-blog/?p=663</guid>
 		<description><![CDATA[<p>My first wish when I arrived in Mendoza was to taste the Argentinian wine. When I heard I can book a bike and move to the different wineries by myself, I jumped on the occasion. Let&#8217;s taste some wines! Get Your Bike I took my bike at Mr. Hugo Bike rental located in the Maipu [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/bike-tour-wineries-mendoza/">A bike tour in the wineries of Mendoza</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/bike-tour-wineries-mendoza/">A bike tour in the wineries of Mendoza</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/bike-tour-wineries-mendoza/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/bike-tour-wineries-mendoza/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Discovering Mendoza during a hot summer</title>
-		<link>/travel/discovering-mendoza/%20</link>
-		<comments>/travel/discovering-mendoza/%20#respond</comments>
+		<link>/travel-blog/travel/discovering-mendoza/%20</link>
+		<comments>/travel-blog/travel/discovering-mendoza/%20#respond</comments>
 		<pubDate>Fri, 10 Feb 2017 00:12:49 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -124,17 +124,17 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=652</guid>
+		<guid isPermaLink="false">/travel-blog/?p=652</guid>
 		<description><![CDATA[<p>Welcome to Mendoza, a hot and dry city where the grape is the king. During my stay, I not only compared the Argentinian wine to the Chilean wine. I also discovered the most impressive mountain in South America, Aconcagua. Last but not least, Mendoza is a great place for Tango. About the city The weather [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/discovering-mendoza/">Discovering Mendoza during a hot summer</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/discovering-mendoza/">Discovering Mendoza during a hot summer</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/discovering-mendoza/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/discovering-mendoza/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Santiago wine regions only by bus</title>
-		<link>/travel/santiago-wine-regions-bus/%20</link>
-		<comments>/travel/santiago-wine-regions-bus/%20#respond</comments>
+		<link>/travel-blog/travel/santiago-wine-regions-bus/%20</link>
+		<comments>/travel-blog/travel/santiago-wine-regions-bus/%20#respond</comments>
 		<pubDate>Wed, 01 Feb 2017 02:16:12 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -143,17 +143,17 @@
 		<category><![CDATA[Organic]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=641</guid>
+		<guid isPermaLink="false">/travel-blog/?p=641</guid>
 		<description><![CDATA[<p>Santiago is surrounded by 5 different wine regions. After Colchagua region, I discover 2 other one: Maipo and Casablanca. Everything is feasible only by bus and public transport! For this second stay in Santiago, I couldn&#8217;t sleep at my friend&#8217;s place. Thus, I slept in an hostel in Bellavista district called Gnomo Hostel. It is [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/santiago-wine-regions-bus/">Santiago wine regions only by bus</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/santiago-wine-regions-bus/">Santiago wine regions only by bus</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/santiago-wine-regions-bus/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/santiago-wine-regions-bus/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Colchagua wine region on a bus ride</title>
-		<link>/travel/colchagua-wine-region-bus-ride/%20</link>
-		<comments>/travel/colchagua-wine-region-bus-ride/%20#comments</comments>
+		<link>/travel-blog/travel/colchagua-wine-region-bus-ride/%20</link>
+		<comments>/travel-blog/travel/colchagua-wine-region-bus-ride/%20#comments</comments>
 		<pubDate>Tue, 31 Jan 2017 18:15:15 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -161,17 +161,17 @@
 		<category><![CDATA[Arts]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=501</guid>
+		<guid isPermaLink="false">/travel-blog/?p=501</guid>
 		<description><![CDATA[<p>Between Pichilemu and Santiago, I decided to do a break and taste wines in the amazing region of Colchagua. In this article, I explain the smart way for doing it without any car. Also, you will save money and time. And of course, I add my recommendations of what to visit. Colchagua Valley This is [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/colchagua-wine-region-bus-ride/">Colchagua wine region on a bus ride</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/colchagua-wine-region-bus-ride/">Colchagua wine region on a bus ride</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/colchagua-wine-region-bus-ride/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/colchagua-wine-region-bus-ride/content/feed</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>How to enjoy your stay in Santiago</title>
-		<link>/travel/enjoy-stay-santiago/%20</link>
-		<comments>/travel/enjoy-stay-santiago/%20#respond</comments>
+		<link>/travel-blog/travel/enjoy-stay-santiago/%20</link>
+		<comments>/travel-blog/travel/enjoy-stay-santiago/%20#respond</comments>
 		<pubDate>Sat, 28 Jan 2017 23:54:21 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -189,11 +189,11 @@
 		<category><![CDATA[Surf]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=435</guid>
+		<guid isPermaLink="false">/travel-blog/?p=435</guid>
 		<description><![CDATA[<p>Santiago is a huge city, almost half of the population of Chile lives there. Big, hot in summer and polluted, Santiago has a lot for frightening. However, I stayed a long time in Santiago. The main reason is that I have met a lot of friends during my last student exchange. But not only my [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

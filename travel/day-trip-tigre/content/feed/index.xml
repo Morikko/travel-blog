@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: A day trip to Tigre</title>
-	<atom:link href="/travel/day-trip-tigre/content/feed" rel="self" type="application/rss+xml" />
-	<link>/travel/day-trip-tigre/%20</link>
+	<atom:link href="/travel-blog/travel/day-trip-tigre/content/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog/travel/day-trip-tigre/%20</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 15 Aug 2017 13:12:58 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

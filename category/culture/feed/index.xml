@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Culture &#8211; Vamos a Bailar</title>
-	<atom:link href="/category/culture/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/category/culture/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Culture &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How to learn Spanish during a journey in South America</title>
-		<link>/culture/learn-spanish-journey-south-america/%20</link>
-		<comments>/culture/learn-spanish-journey-south-america/%20#respond</comments>
+		<link>/travel-blog/culture/learn-spanish-journey-south-america/%20</link>
+		<comments>/travel-blog/culture/learn-spanish-journey-south-america/%20#respond</comments>
 		<pubDate>Tue, 10 Oct 2017 17:34:39 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Culture]]></category>
@@ -37,17 +37,17 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Speaking]]></category>
 
-		<guid isPermaLink="false">/?p=1396</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1396</guid>
 		<description><![CDATA[<p>I have been around 9 months in Latino South America countries. All the time, I practiced and learned the Spanish language. I began the journey by knowing just a few words. And I ended the journey, by being fluent in Spanish. This is my guide to learn a language while practicing and using smartphone applications [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/culture/learn-spanish-journey-south-america/">How to learn Spanish during a journey in South America</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/culture/learn-spanish-journey-south-america/">How to learn Spanish during a journey in South America</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/culture/learn-spanish-journey-south-america/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/culture/learn-spanish-journey-south-america/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Bolivian specialties</title>
-		<link>/travel/bolivia/bolivian-specialties/%20</link>
-		<comments>/travel/bolivia/bolivian-specialties/%20#respond</comments>
+		<link>/travel-blog/travel/bolivia/bolivian-specialties/%20</link>
+		<comments>/travel-blog/travel/bolivia/bolivian-specialties/%20#respond</comments>
 		<pubDate>Fri, 16 Jun 2017 17:08:45 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -57,17 +57,17 @@
 		<category><![CDATA[Corn]]></category>
 		<category><![CDATA[Food]]></category>
 
-		<guid isPermaLink="false">/?p=1069</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1069</guid>
 		<description><![CDATA[<p>Some of my nice culinary experiments Food Charquekan Dried beef, salt cheese, egg and white corn. Pique macho A meal with pieces of beef, fried potatoes, onion, sausage, tomatoes, peppers, spicy peppers and egg. Aji de Fideo Meal with pasta, chopped beef, vegetables Picante de Lengua Beef tongue. The &#8220;Picante&#8221; is the type of way [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/bolivia/bolivian-specialties/">Bolivian specialties</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/bolivia/bolivian-specialties/">Bolivian specialties</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/bolivia/bolivian-specialties/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/bolivia/bolivian-specialties/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Caïpirinha workshop</title>
-		<link>/culture/caipirinha-workshop/%20</link>
-		<comments>/culture/caipirinha-workshop/%20#respond</comments>
+		<link>/travel-blog/culture/caipirinha-workshop/%20</link>
+		<comments>/travel-blog/culture/caipirinha-workshop/%20#respond</comments>
 		<pubDate>Wed, 26 Apr 2017 18:05:29 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Brazil]]></category>
@@ -78,17 +78,17 @@
 		<category><![CDATA[Cocktails]]></category>
 		<category><![CDATA[Fruits]]></category>
 
-		<guid isPermaLink="false">/?p=900</guid>
+		<guid isPermaLink="false">/travel-blog/?p=900</guid>
 		<description><![CDATA[<p>The workshop Another activity I did in Florianopolis, making caipirinhas. It is not new, that I loved cocktails. I have a small bar in France, still waiting for me to practice. Brazil is renowned for the cachaca and the famous cocktail: caipirinha. It is just: lemon, cachaca, sugar and ice. I decided to replace the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/culture/caipirinha-workshop/">Caïpirinha workshop</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/culture/caipirinha-workshop/">Caïpirinha workshop</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/culture/caipirinha-workshop/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/culture/caipirinha-workshop/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Montevideo carnival</title>
-		<link>/travel/carnaval-montevideo/%20</link>
-		<comments>/travel/carnaval-montevideo/%20#respond</comments>
+		<link>/travel-blog/travel/carnaval-montevideo/%20</link>
+		<comments>/travel-blog/travel/carnaval-montevideo/%20#respond</comments>
 		<pubDate>Wed, 26 Apr 2017 15:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Culture]]></category>
@@ -102,17 +102,17 @@
 		<category><![CDATA[Shows]]></category>
 		<category><![CDATA[Singing]]></category>
 
-		<guid isPermaLink="false">/?p=831</guid>
+		<guid isPermaLink="false">/travel-blog/?p=831</guid>
 		<description><![CDATA[<p>The carnival in Uruguay The event The carnival in Uruguay is the longest one in the world, lasting in total for 40 days. The 3 main events are the opening on the first day, the parades in the middle and the final performance weekend. However, during all that 40 days, you can enjoy shows in [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/carnaval-montevideo/">Montevideo carnival</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/carnaval-montevideo/">Montevideo carnival</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/carnaval-montevideo/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/carnaval-montevideo/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>A stop in Cordoba on the way to Buenos Aires</title>
-		<link>/travel/a-jump-in-cordoba/%20</link>
-		<comments>/travel/a-jump-in-cordoba/%20#respond</comments>
+		<link>/travel-blog/travel/a-jump-in-cordoba/%20</link>
+		<comments>/travel-blog/travel/a-jump-in-cordoba/%20#respond</comments>
 		<pubDate>Thu, 02 Mar 2017 17:52:33 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -122,17 +122,17 @@
 		<category><![CDATA[Food]]></category>
 		<category><![CDATA[WithdrawCash]]></category>
 
-		<guid isPermaLink="false">/?p=815</guid>
+		<guid isPermaLink="false">/travel-blog/?p=815</guid>
 		<description><![CDATA[<p>I only stayed in Cordoba two nights during my transit from San Juan to Buenos Aires. I was looking for some Tango, but I didn&#8217;t find much about it. On top of that, it rained a lot. Thus, I didn&#8217;t visit the place as well. My first Argentinian meal: Locro My biggest surprise in Cordoba [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/a-jump-in-cordoba/">A stop in Cordoba on the way to Buenos Aires</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/a-jump-in-cordoba/">A stop in Cordoba on the way to Buenos Aires</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/a-jump-in-cordoba/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/a-jump-in-cordoba/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>12 specialties from the Chilean kitchen</title>
-		<link>/travel/chile/chilean-kitchen/%20</link>
-		<comments>/travel/chile/chilean-kitchen/%20#comments</comments>
+		<link>/travel-blog/travel/chile/chilean-kitchen/%20</link>
+		<comments>/travel-blog/travel/chile/chilean-kitchen/%20#comments</comments>
 		<pubDate>Sat, 04 Feb 2017 03:07:28 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -143,17 +143,17 @@
 		<category><![CDATA[Food]]></category>
 		<category><![CDATA[MomsCooking]]></category>
 
-		<guid isPermaLink="false">/?p=434</guid>
+		<guid isPermaLink="false">/travel-blog/?p=434</guid>
 		<description><![CDATA[<p>Chile is not only wineries, nature or beach but also a typical kitchen. Here, I present all the typical specialties I have tried. From corn Chile is a huge producer of corn and hence the traditional kitchen uses it a lot. Pastel de Choclo A gratin made mostly with corn. It also contains chicken meat, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/chile/chilean-kitchen/">12 specialties from the Chilean kitchen</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/chile/chilean-kitchen/">12 specialties from the Chilean kitchen</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/chile/chilean-kitchen/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/chile/chilean-kitchen/content/feed</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>How to enjoy your stay in Santiago</title>
-		<link>/travel/enjoy-stay-santiago/%20</link>
-		<comments>/travel/enjoy-stay-santiago/%20#respond</comments>
+		<link>/travel-blog/travel/enjoy-stay-santiago/%20</link>
+		<comments>/travel-blog/travel/enjoy-stay-santiago/%20#respond</comments>
 		<pubDate>Sat, 28 Jan 2017 23:54:21 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -171,17 +171,17 @@
 		<category><![CDATA[Surf]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=435</guid>
+		<guid isPermaLink="false">/travel-blog/?p=435</guid>
 		<description><![CDATA[<p>Santiago is a huge city, almost half of the population of Chile lives there. Big, hot in summer and polluted, Santiago has a lot for frightening. However, I stayed a long time in Santiago. The main reason is that I have met a lot of friends during my last student exchange. But not only my [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Living in Buenos Aires during one month</title>
-		<link>/culture/living-buenos-aires/%20</link>
-		<comments>/culture/living-buenos-aires/%20#respond</comments>
+		<link>/travel-blog/culture/living-buenos-aires/%20</link>
+		<comments>/travel-blog/culture/living-buenos-aires/%20#respond</comments>
 		<pubDate>Wed, 04 Jan 2017 03:13:38 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -191,17 +191,17 @@
 		<category><![CDATA[LivingLikeLocal]]></category>
 		<category><![CDATA[Mate]]></category>
 
-		<guid isPermaLink="false">/?p=141</guid>
+		<guid isPermaLink="false">/travel-blog/?p=141</guid>
 		<description><![CDATA[<p>As I wanted to learn tango in Buenos Aires, I lived one month in the same place. My choice was San Telmo area as the place is cheap and lively. San Telmo A stay at Puerto Limon Hostel After spending a few days in a friend&#8217;s apartment, I had to find a place for the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/culture/living-buenos-aires/">Living in Buenos Aires during one month</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/culture/living-buenos-aires/">Living in Buenos Aires during one month</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/culture/living-buenos-aires/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/culture/living-buenos-aires/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Discover the city of Buenos Aires</title>
-		<link>/travel/buenos-aires/%20</link>
-		<comments>/travel/buenos-aires/%20#respond</comments>
+		<link>/travel-blog/travel/buenos-aires/%20</link>
+		<comments>/travel-blog/travel/buenos-aires/%20#respond</comments>
 		<pubDate>Mon, 02 Jan 2017 01:54:47 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -212,11 +212,11 @@
 		<category><![CDATA[Mate]]></category>
 		<category><![CDATA[Tango]]></category>
 
-		<guid isPermaLink="false">/?p=89</guid>
+		<guid isPermaLink="false">/travel-blog/?p=89</guid>
 		<description><![CDATA[<p>Welcome in Buenos Aires, capital and main city of Argentina. While visiting the city can be done in 3 to 5 days, learning tango took more time. I stayed one month for practicing tango, I wish I could have stayed more. Here I present how to enjoy the city while staying there. 1. Walk in [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/buenos-aires/">Discover the city of Buenos Aires</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/buenos-aires/">Discover the city of Buenos Aires</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/buenos-aires/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/buenos-aires/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

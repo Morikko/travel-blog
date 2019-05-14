@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Potholing &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/potholing/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/potholing/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Potholing &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Toro Toro: In the footsteps of Dinosaurs</title>
-		<link>/travel/toro-toro-footsteps-dinosaurs/%20</link>
-		<comments>/travel/toro-toro-footsteps-dinosaurs/%20#respond</comments>
+		<link>/travel-blog/travel/toro-toro-footsteps-dinosaurs/%20</link>
+		<comments>/travel-blog/travel/toro-toro-footsteps-dinosaurs/%20#respond</comments>
 		<pubDate>Thu, 15 Jun 2017 21:10:03 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -41,11 +41,11 @@
 		<category><![CDATA[Potholing]]></category>
 		<category><![CDATA[Trekking]]></category>
 
-		<guid isPermaLink="false">/?p=1008</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1008</guid>
 		<description><![CDATA[<p>Toro Toro City The city of Toro Toro was located 5 hours bus ride from the main city Cochabamba. The city was very small and simple, they got electricity 10 years ago. Still now, lots of people are doing the laundry in the river. As an anecdote, I found only one washing machine in the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/toro-toro-footsteps-dinosaurs/">Toro Toro: In the footsteps of Dinosaurs</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/toro-toro-footsteps-dinosaurs/">Toro Toro: In the footsteps of Dinosaurs</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/toro-toro-footsteps-dinosaurs/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/toro-toro-footsteps-dinosaurs/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

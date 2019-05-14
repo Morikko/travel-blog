@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Diving &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/diving/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/diving/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Diving &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Capurgana the marvel of the Caribbean</title>
-		<link>/travel/capurgana-marvel-caribbean/%20</link>
-		<comments>/travel/capurgana-marvel-caribbean/%20#comments</comments>
+		<link>/travel-blog/travel/capurgana-marvel-caribbean/%20</link>
+		<comments>/travel-blog/travel/capurgana-marvel-caribbean/%20#comments</comments>
 		<pubDate>Mon, 14 Aug 2017 16:45:48 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -37,17 +37,17 @@
 		<category><![CDATA[Sea]]></category>
 		<category><![CDATA[Seafood]]></category>
 
-		<guid isPermaLink="false">/?p=1378</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1378</guid>
 		<description><![CDATA[<p>The paradise The city of Capurgana is located in a Colombia Golf close to the Panama border on the Caribbean side. The small town is only reachable by boat. It is like an island, prices are bigger and it is more difficult to find goods even fruits and vegetables. Still now, the area around is partly [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/capurgana-marvel-caribbean/">Capurgana the marvel of the Caribbean</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/capurgana-marvel-caribbean/">Capurgana the marvel of the Caribbean</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/capurgana-marvel-caribbean/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/capurgana-marvel-caribbean/content/feed</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>Puerto Lopez: Now I am a diver that saw the whales</title>
-		<link>/travel/puerto-lopez-now-diver-saw-whales/%20</link>
-		<comments>/travel/puerto-lopez-now-diver-saw-whales/%20#respond</comments>
+		<link>/travel-blog/travel/puerto-lopez-now-diver-saw-whales/%20</link>
+		<comments>/travel-blog/travel/puerto-lopez-now-diver-saw-whales/%20#respond</comments>
 		<pubDate>Tue, 04 Jul 2017 01:37:52 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Ecuador]]></category>
@@ -56,11 +56,11 @@
 		<category><![CDATA[Diving]]></category>
 		<category><![CDATA[Whales]]></category>
 
-		<guid isPermaLink="false">/?p=1145</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1145</guid>
 		<description><![CDATA[<p>Diving: Open Water Certified My first reason to go to Puerto Lopez was to do a diving certificate. Since I tried the dive last year in Indonesia, I felt in love. From the beginning, it is one of my traveling goals. I found a nice agency hold by a French couple. The course took 3 [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/puerto-lopez-now-diver-saw-whales/">Puerto Lopez: Now I am a diver that saw the whales</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/puerto-lopez-now-diver-saw-whales/">Puerto Lopez: Now I am a diver that saw the whales</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/puerto-lopez-now-diver-saw-whales/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/puerto-lopez-now-diver-saw-whales/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

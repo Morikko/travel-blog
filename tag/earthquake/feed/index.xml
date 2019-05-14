@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Earthquake &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/earthquake/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/earthquake/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Earthquake &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Christmas and an earthquake on Chiloé island</title>
-		<link>/travel/christmas-earthquake-chiloe-island/%20</link>
-		<comments>/travel/christmas-earthquake-chiloe-island/%20#respond</comments>
+		<link>/travel-blog/travel/christmas-earthquake-chiloe-island/%20</link>
+		<comments>/travel-blog/travel/christmas-earthquake-chiloe-island/%20#respond</comments>
 		<pubDate>Mon, 23 Jan 2017 21:09:37 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -37,11 +37,11 @@
 		<category><![CDATA[Earthquake]]></category>
 		<category><![CDATA[Running]]></category>
 
-		<guid isPermaLink="false">/?p=275</guid>
+		<guid isPermaLink="false">/travel-blog/?p=275</guid>
 		<description><![CDATA[<p>The last 10 days on the Carretera Austral were adventurous. Now, it is Christmas and time for relaxing. I have decided to be in Castro on Chiloé island as it looks beautiful and peaceful. Peaceful ?! I won&#8217;t say it again after the Christmas I have spent. My trembling Christmas A lonely celebration Usually, I [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/christmas-earthquake-chiloe-island/">A Christmas and an earthquake on Chiloé island</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/christmas-earthquake-chiloe-island/">A Christmas and an earthquake on Chiloé island</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/christmas-earthquake-chiloe-island/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/christmas-earthquake-chiloe-island/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -26,7 +26,7 @@ More Info:	http://nomadworldmap.com
 .nwm-destination-list .nwm-forward,
 .marker-content div .nwm-thumb,
 .nwm-active-destination div .nwm-thumb {
-    background:url(/wp-content/plugins/nomad-world-map/img/graphic.png) left top no-repeat;
+    background:url(/travel-blog/wp-content/plugins/nomad-world-map/img/graphic.png) left top no-repeat;
 }
 
 /* Make sure the map images are not scaled and show a box shadow */
@@ -220,7 +220,7 @@ More Info:	http://nomadworldmap.com
     display:block;
     left:-6px;
     top:9px;
-    background:url(/wp-content/plugins/nomad-world-map/img/marker-triangle.png) left top no-repeat;
+    background:url(/travel-blog/wp-content/plugins/nomad-world-map/img/marker-triangle.png) left top no-repeat;
     content:"";
 }
 

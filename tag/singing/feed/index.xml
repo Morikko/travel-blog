@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Singing &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/singing/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/singing/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Singing &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Montevideo carnival</title>
-		<link>/travel/carnaval-montevideo/%20</link>
-		<comments>/travel/carnaval-montevideo/%20#respond</comments>
+		<link>/travel-blog/travel/carnaval-montevideo/%20</link>
+		<comments>/travel-blog/travel/carnaval-montevideo/%20#respond</comments>
 		<pubDate>Wed, 26 Apr 2017 15:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Culture]]></category>
@@ -42,11 +42,11 @@
 		<category><![CDATA[Shows]]></category>
 		<category><![CDATA[Singing]]></category>
 
-		<guid isPermaLink="false">/?p=831</guid>
+		<guid isPermaLink="false">/travel-blog/?p=831</guid>
 		<description><![CDATA[<p>The carnival in Uruguay The event The carnival in Uruguay is the longest one in the world, lasting in total for 40 days. The 3 main events are the opening on the first day, the parades in the middle and the final performance weekend. However, during all that 40 days, you can enjoy shows in [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/carnaval-montevideo/">Montevideo carnival</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/carnaval-montevideo/">Montevideo carnival</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/carnaval-montevideo/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/carnaval-montevideo/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

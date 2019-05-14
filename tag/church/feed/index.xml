@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Church &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/church/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/church/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Church &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Santa Cruz: my first contact with the Bolivian culture</title>
-		<link>/travel/santa-cruz-first-contact-bolivian-culture/%20</link>
-		<comments>/travel/santa-cruz-first-contact-bolivian-culture/%20#respond</comments>
+		<link>/travel-blog/travel/santa-cruz-first-contact-bolivian-culture/%20</link>
+		<comments>/travel-blog/travel/santa-cruz-first-contact-bolivian-culture/%20#respond</comments>
 		<pubDate>Wed, 26 Apr 2017 18:48:29 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -37,11 +37,11 @@
 		<category><![CDATA[Eastern]]></category>
 		<category><![CDATA[Food]]></category>
 
-		<guid isPermaLink="false">/?p=910</guid>
+		<guid isPermaLink="false">/travel-blog/?p=910</guid>
 		<description><![CDATA[<p>Welcome to Bolivia I arrived by plane from Sao Paulo. This was a huge shock between the messy city of Sao Paulo and the quietness of Santa Cruz. The country is cheap as a lot of people told me. However, it is also far less developed that the other countries I have visited so far. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/santa-cruz-first-contact-bolivian-culture/">Santa Cruz: my first contact with the Bolivian culture</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/santa-cruz-first-contact-bolivian-culture/">Santa Cruz: my first contact with the Bolivian culture</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/santa-cruz-first-contact-bolivian-culture/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/santa-cruz-first-contact-bolivian-culture/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

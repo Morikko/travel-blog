@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Vineyard &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/vineyard/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/vineyard/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Vineyard &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Adventure on top of the mountains: Trekking Cruce Sierra de Marquesado in San Juan</title>
-		<link>/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20</link>
-		<comments>/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20#respond</comments>
+		<link>/travel-blog/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20</link>
+		<comments>/travel-blog/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20#respond</comments>
 		<pubDate>Tue, 28 Feb 2017 21:35:51 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -41,11 +41,11 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Vineyard]]></category>
 
-		<guid isPermaLink="false">/?p=767</guid>
+		<guid isPermaLink="false">/travel-blog/?p=767</guid>
 		<description><![CDATA[<p>Ready to discover the region of San Juan with a trek crossing from one valley to another one. It is among my best treks mainly for two reasons: the variety of the landscapes and the adventurous side of the track. Trekking Cruce Sierra de Marquesado The walk The trekking Cruce Sierra de Marquesado is a [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/">Adventure on top of the mountains: Trekking Cruce Sierra de Marquesado in San Juan</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/">Adventure on top of the mountains: Trekking Cruce Sierra de Marquesado in San Juan</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

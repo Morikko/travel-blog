@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Vamos a Bailar</title>
-	<atom:link href="/category/uncategorized/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/category/uncategorized/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,31 +19,31 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Uncategorized &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Fruits, vegetables and herbs I tasted in South America</title>
-		<link>/uncategorized/fruits-vegetables-herbs-tasted-south-america/%20</link>
-		<comments>/uncategorized/fruits-vegetables-herbs-tasted-south-america/%20#respond</comments>
+		<link>/travel-blog/uncategorized/fruits-vegetables-herbs-tasted-south-america/%20</link>
+		<comments>/travel-blog/uncategorized/fruits-vegetables-herbs-tasted-south-america/%20#respond</comments>
 		<pubDate>Sat, 26 Aug 2017 02:09:38 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=1122</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1122</guid>
 		<description><![CDATA[<p>Fruits Babaco Chirimoya Anón Guanabana Tuna Lulo (Colombia) or Naranjilla (Ecuador) Açaï Zapote Nispero Tumbo (In Bolivia or Curuba in Colombia and Taxo in Ecuador) Borojo Feijoa Granada Granadilla Tomate de Arbol Pitahaya or Pitaya Guayaba Carambola Tamarindo Chontaduro  Mamón Madroñero Vegetables Chayote Pin du Paraná Choclo Maxixe (Concombre des Antilles) Arrancacha Pepino Yuca Herbs [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/uncategorized/fruits-vegetables-herbs-tasted-south-america/">Fruits, vegetables and herbs I tasted in South America</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/uncategorized/fruits-vegetables-herbs-tasted-south-america/">Fruits, vegetables and herbs I tasted in South America</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/uncategorized/fruits-vegetables-herbs-tasted-south-america/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/uncategorized/fruits-vegetables-herbs-tasted-south-america/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Death Road on bike: From 4700 meters to 1600 meters</title>
-		<link>/uncategorized/death-road-bike-4700-meters-1600-meters/%20</link>
-		<comments>/uncategorized/death-road-bike-4700-meters-1600-meters/%20#respond</comments>
+		<link>/travel-blog/uncategorized/death-road-bike-4700-meters-1600-meters/%20</link>
+		<comments>/travel-blog/uncategorized/death-road-bike-4700-meters-1600-meters/%20#respond</comments>
 		<pubDate>Fri, 16 Jun 2017 15:17:05 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -55,11 +55,11 @@
 		<category><![CDATA[Mountains]]></category>
 		<category><![CDATA[Zipline]]></category>
 
-		<guid isPermaLink="false">/?p=1056</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1056</guid>
 		<description><![CDATA[<p>The Death Road is the previous main road between the Altiplano and the Amazonian jungle. Made of earth, narrow, wet, everything for creating a dangerous road. Many accidents occurred for the condition reasons or for the craziness of the Bolivian drivers. Now, a newly paved road replaces this old one. The top The initial part [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/uncategorized/death-road-bike-4700-meters-1600-meters/">Death Road on bike: From 4700 meters to 1600 meters</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/uncategorized/death-road-bike-4700-meters-1600-meters/">Death Road on bike: From 4700 meters to 1600 meters</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/uncategorized/death-road-bike-4700-meters-1600-meters/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/uncategorized/death-road-bike-4700-meters-1600-meters/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

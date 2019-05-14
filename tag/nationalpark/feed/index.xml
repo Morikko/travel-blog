@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NationalPark &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/nationalpark/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/nationalpark/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>NationalPark &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Discovering San Juan region between vineyards and mountains</title>
-		<link>/travel/san-juan-region/%20</link>
-		<comments>/travel/san-juan-region/%20#respond</comments>
+		<link>/travel-blog/travel/san-juan-region/%20</link>
+		<comments>/travel-blog/travel/san-juan-region/%20#respond</comments>
 		<pubDate>Tue, 21 Feb 2017 21:13:32 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -42,11 +42,11 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=675</guid>
+		<guid isPermaLink="false">/travel-blog/?p=675</guid>
 		<description><![CDATA[<p>San Juan located 200 kms from Mendoza. Beyond the similarities with Mendoza due to the proximity, the region of San Juan has its own particularities. Many mountains and vineyard to discover that create incredible landscapes. Discovering San Juan region You can reach San Juan from Mendoza with a bus that costs 185AR$ and takes 2h30. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/san-juan-region/">Discovering San Juan region between vineyards and mountains</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/san-juan-region/">Discovering San Juan region between vineyards and mountains</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/san-juan-region/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/san-juan-region/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

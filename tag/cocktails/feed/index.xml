@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cocktails &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/cocktails/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/cocktails/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Cocktails &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Cartagena</title>
-		<link>/travel/cartagena/%20</link>
-		<comments>/travel/cartagena/%20#respond</comments>
+		<link>/travel-blog/travel/cartagena/%20</link>
+		<comments>/travel-blog/travel/cartagena/%20#respond</comments>
 		<pubDate>Mon, 31 Jul 2017 05:21:53 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -39,17 +39,17 @@
 		<category><![CDATA[Hot]]></category>
 		<category><![CDATA[Sea]]></category>
 
-		<guid isPermaLink="false">/?p=1363</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1363</guid>
 		<description><![CDATA[<p>Cartagena The first impression when I arrived was about the temperature. It was humid and hot. Also, the atmosphere changed completely. People were more relaxed the day and more crazy the night. The next day, we visited the city. Hopefully, some clouds protected us against a very hot day. The city was very colonial and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/cartagena/">Cartagena</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/cartagena/">Cartagena</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/cartagena/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/cartagena/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Bolivian specialties</title>
-		<link>/travel/bolivia/bolivian-specialties/%20</link>
-		<comments>/travel/bolivia/bolivian-specialties/%20#respond</comments>
+		<link>/travel-blog/travel/bolivia/bolivian-specialties/%20</link>
+		<comments>/travel-blog/travel/bolivia/bolivian-specialties/%20#respond</comments>
 		<pubDate>Fri, 16 Jun 2017 17:08:45 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -59,17 +59,17 @@
 		<category><![CDATA[Corn]]></category>
 		<category><![CDATA[Food]]></category>
 
-		<guid isPermaLink="false">/?p=1069</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1069</guid>
 		<description><![CDATA[<p>Some of my nice culinary experiments Food Charquekan Dried beef, salt cheese, egg and white corn. Pique macho A meal with pieces of beef, fried potatoes, onion, sausage, tomatoes, peppers, spicy peppers and egg. Aji de Fideo Meal with pasta, chopped beef, vegetables Picante de Lengua Beef tongue. The &#8220;Picante&#8221; is the type of way [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/bolivia/bolivian-specialties/">Bolivian specialties</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/bolivia/bolivian-specialties/">Bolivian specialties</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/bolivia/bolivian-specialties/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/bolivia/bolivian-specialties/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Toro Toro: In the footsteps of Dinosaurs</title>
-		<link>/travel/toro-toro-footsteps-dinosaurs/%20</link>
-		<comments>/travel/toro-toro-footsteps-dinosaurs/%20#respond</comments>
+		<link>/travel-blog/travel/toro-toro-footsteps-dinosaurs/%20</link>
+		<comments>/travel-blog/travel/toro-toro-footsteps-dinosaurs/%20#respond</comments>
 		<pubDate>Thu, 15 Jun 2017 21:10:03 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -82,17 +82,17 @@
 		<category><![CDATA[Potholing]]></category>
 		<category><![CDATA[Trekking]]></category>
 
-		<guid isPermaLink="false">/?p=1008</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1008</guid>
 		<description><![CDATA[<p>Toro Toro City The city of Toro Toro was located 5 hours bus ride from the main city Cochabamba. The city was very small and simple, they got electricity 10 years ago. Still now, lots of people are doing the laundry in the river. As an anecdote, I found only one washing machine in the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/toro-toro-footsteps-dinosaurs/">Toro Toro: In the footsteps of Dinosaurs</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/toro-toro-footsteps-dinosaurs/">Toro Toro: In the footsteps of Dinosaurs</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/toro-toro-footsteps-dinosaurs/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/toro-toro-footsteps-dinosaurs/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Caïpirinha workshop</title>
-		<link>/culture/caipirinha-workshop/%20</link>
-		<comments>/culture/caipirinha-workshop/%20#respond</comments>
+		<link>/travel-blog/culture/caipirinha-workshop/%20</link>
+		<comments>/travel-blog/culture/caipirinha-workshop/%20#respond</comments>
 		<pubDate>Wed, 26 Apr 2017 18:05:29 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Brazil]]></category>
@@ -103,11 +103,11 @@
 		<category><![CDATA[Cocktails]]></category>
 		<category><![CDATA[Fruits]]></category>
 
-		<guid isPermaLink="false">/?p=900</guid>
+		<guid isPermaLink="false">/travel-blog/?p=900</guid>
 		<description><![CDATA[<p>The workshop Another activity I did in Florianopolis, making caipirinhas. It is not new, that I loved cocktails. I have a small bar in France, still waiting for me to practice. Brazil is renowned for the cachaca and the famous cocktail: caipirinha. It is just: lemon, cachaca, sugar and ice. I decided to replace the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/culture/caipirinha-workshop/">Caïpirinha workshop</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/culture/caipirinha-workshop/">Caïpirinha workshop</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/culture/caipirinha-workshop/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/culture/caipirinha-workshop/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Travel &#8211; Vamos a Bailar</title>
-	<atom:link href="/category/travel/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/category/travel/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,33 +19,33 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Travel &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Good bye my journey, you were an incredible experience</title>
-		<link>/news/good-bye-journey-incredible-experience/%20</link>
-		<comments>/news/good-bye-journey-incredible-experience/%20#respond</comments>
+		<link>/travel-blog/news/good-bye-journey-incredible-experience/%20</link>
+		<comments>/travel-blog/news/good-bye-journey-incredible-experience/%20#respond</comments>
 		<pubDate>Tue, 10 Oct 2017 22:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[Travel]]></category>
 		<category><![CDATA[Goodbye]]></category>
 
-		<guid isPermaLink="false">/?p=1393</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1393</guid>
 		<description><![CDATA[<p>I took part in a journey that sent me much further than I hoped. Now, my head is full of souvenirs, my heart is full of friendships. Yes a page has been written, but a page worth to be written. A journey where I traveled&#8230; Across all(most) South America 8 Countries Facts 15798 kms 298 [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/news/good-bye-journey-incredible-experience/">Good bye my journey, you were an incredible experience</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/news/good-bye-journey-incredible-experience/">Good bye my journey, you were an incredible experience</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/news/good-bye-journey-incredible-experience/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/news/good-bye-journey-incredible-experience/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Cali and the salsa culture</title>
-		<link>/travel/cali-salsa-culture/%20</link>
-		<comments>/travel/cali-salsa-culture/%20#respond</comments>
+		<link>/travel-blog/travel/cali-salsa-culture/%20</link>
+		<comments>/travel-blog/travel/cali-salsa-culture/%20#respond</comments>
 		<pubDate>Sat, 26 Aug 2017 02:08:30 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -59,17 +59,17 @@
 		<category><![CDATA[Salsa]]></category>
 		<category><![CDATA[Trekking]]></category>
 
-		<guid isPermaLink="false">/?p=1391</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1391</guid>
 		<description><![CDATA[<p>I went to Cali for 10 days, I stayed 20 finally. I found in love with the city, not for the beauty, but for the spirit. In Cali, dancing salsa is part of the culture. Moreover, people are really friendly and the city didn&#8217;t make you feel like in a big one. In only 20 [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/cali-salsa-culture/">Cali and the salsa culture</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/cali-salsa-culture/">Cali and the salsa culture</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/cali-salsa-culture/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/cali-salsa-culture/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Capurgana the marvel of the Caribbean</title>
-		<link>/travel/capurgana-marvel-caribbean/%20</link>
-		<comments>/travel/capurgana-marvel-caribbean/%20#comments</comments>
+		<link>/travel-blog/travel/capurgana-marvel-caribbean/%20</link>
+		<comments>/travel-blog/travel/capurgana-marvel-caribbean/%20#comments</comments>
 		<pubDate>Mon, 14 Aug 2017 16:45:48 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -78,17 +78,17 @@
 		<category><![CDATA[Sea]]></category>
 		<category><![CDATA[Seafood]]></category>
 
-		<guid isPermaLink="false">/?p=1378</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1378</guid>
 		<description><![CDATA[<p>The paradise The city of Capurgana is located in a Colombia Golf close to the Panama border on the Caribbean side. The small town is only reachable by boat. It is like an island, prices are bigger and it is more difficult to find goods even fruits and vegetables. Still now, the area around is partly [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/capurgana-marvel-caribbean/">Capurgana the marvel of the Caribbean</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/capurgana-marvel-caribbean/">Capurgana the marvel of the Caribbean</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/capurgana-marvel-caribbean/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/capurgana-marvel-caribbean/content/feed</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>Cartagena</title>
-		<link>/travel/cartagena/%20</link>
-		<comments>/travel/cartagena/%20#respond</comments>
+		<link>/travel-blog/travel/cartagena/%20</link>
+		<comments>/travel-blog/travel/cartagena/%20#respond</comments>
 		<pubDate>Mon, 31 Jul 2017 05:21:53 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -99,17 +99,17 @@
 		<category><![CDATA[Hot]]></category>
 		<category><![CDATA[Sea]]></category>
 
-		<guid isPermaLink="false">/?p=1363</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1363</guid>
 		<description><![CDATA[<p>Cartagena The first impression when I arrived was about the temperature. It was humid and hot. Also, the atmosphere changed completely. People were more relaxed the day and more crazy the night. The next day, we visited the city. Hopefully, some clouds protected us against a very hot day. The city was very colonial and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/cartagena/">Cartagena</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/cartagena/">Cartagena</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/cartagena/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/cartagena/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Bogota and the salt cathedral</title>
-		<link>/travel/bogota-salt-cathedral/%20</link>
-		<comments>/travel/bogota-salt-cathedral/%20#respond</comments>
+		<link>/travel-blog/travel/bogota-salt-cathedral/%20</link>
+		<comments>/travel-blog/travel/bogota-salt-cathedral/%20#respond</comments>
 		<pubDate>Mon, 31 Jul 2017 04:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -119,17 +119,17 @@
 		<category><![CDATA[Dancing]]></category>
 		<category><![CDATA[Graffiti]]></category>
 
-		<guid isPermaLink="false">/?p=1348</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1348</guid>
 		<description><![CDATA[<p>The salt cathedral This impressive building is located 47 kms from Bogota in another town called Zipaquira. It has been built inside a salt mine currently still under activity. Thus, the cathedral is below 180 meters of earth. An incredible lighting effect made the rooms very beautiful. In the colossus Colombian capital A really big [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/bogota-salt-cathedral/">Bogota and the salt cathedral</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/bogota-salt-cathedral/">Bogota and the salt cathedral</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/bogota-salt-cathedral/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/bogota-salt-cathedral/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Paramo de Oceta</title>
-		<link>/travel/paramo-de-oceta/%20</link>
-		<comments>/travel/paramo-de-oceta/%20#respond</comments>
+		<link>/travel-blog/travel/paramo-de-oceta/%20</link>
+		<comments>/travel-blog/travel/paramo-de-oceta/%20#respond</comments>
 		<pubDate>Mon, 31 Jul 2017 04:09:15 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -139,17 +139,17 @@
 		<category><![CDATA[Paramo]]></category>
 		<category><![CDATA[Trekking]]></category>
 
-		<guid isPermaLink="false">/?p=1330</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1330</guid>
 		<description><![CDATA[<p>The fantastic Paramo de Oceta We left the city of Mongui early in the morning in order to avoid the bad weather as the guides recommended us. If the beginning was alright, we ended under a strong rain all time long. The Paramo de Oceta is located above 3,700 meters high, almost 1,000 meters higher [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/paramo-de-oceta/">Paramo de Oceta</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/paramo-de-oceta/">Paramo de Oceta</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/paramo-de-oceta/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/paramo-de-oceta/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Canos cristales</title>
-		<link>/travel/canos-cristales/%20</link>
-		<comments>/travel/canos-cristales/%20#respond</comments>
+		<link>/travel-blog/travel/canos-cristales/%20</link>
+		<comments>/travel-blog/travel/canos-cristales/%20#respond</comments>
 		<pubDate>Mon, 31 Jul 2017 00:27:47 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -158,17 +158,17 @@
 		<category><![CDATA[River]]></category>
 		<category><![CDATA[Trekking]]></category>
 
-		<guid isPermaLink="false">/?p=1312</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1312</guid>
 		<description><![CDATA[<p>Canos Cristales &#8211; red seaweeds in the water A tough and expensive journey for a mitigated result The challenge to get there We didn&#8217;t want to take a bus to get there. The reason is that it took more than 10 hours on an earth road full of potholes in a small micro bus. Thus, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/canos-cristales/">Canos cristales</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/canos-cristales/">Canos cristales</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/canos-cristales/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/canos-cristales/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Desierto de Tatacoa</title>
-		<link>/travel/desierto-de-tatacoa/%20</link>
-		<comments>/travel/desierto-de-tatacoa/%20#respond</comments>
+		<link>/travel-blog/travel/desierto-de-tatacoa/%20</link>
+		<comments>/travel-blog/travel/desierto-de-tatacoa/%20#respond</comments>
 		<pubDate>Sun, 30 Jul 2017 23:43:01 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -179,17 +179,17 @@
 		<category><![CDATA[Moto]]></category>
 		<category><![CDATA[Trekking]]></category>
 
-		<guid isPermaLink="false">/?p=1292</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1292</guid>
 		<description><![CDATA[<p>After a day journey in different buses from San Agustin, we reached Villavieja. The last town before the Tatacoa desert. Actually, this is not a real desert, but a dry tropical jungle. Although water is rare and temperature is high, there are birds and vegetation. The day after, we visited the two parts: one with [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/desierto-de-tatacoa/">Desierto de Tatacoa</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/desierto-de-tatacoa/">Desierto de Tatacoa</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/desierto-de-tatacoa/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/desierto-de-tatacoa/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>San Agustin &#8211; The archaeological park and the coffee farm</title>
-		<link>/travel/san-agustin-archaeological-park-coffee-farm/%20</link>
-		<comments>/travel/san-agustin-archaeological-park-coffee-farm/%20#respond</comments>
+		<link>/travel-blog/travel/san-agustin-archaeological-park-coffee-farm/%20</link>
+		<comments>/travel-blog/travel/san-agustin-archaeological-park-coffee-farm/%20#respond</comments>
 		<pubDate>Sat, 22 Jul 2017 03:21:31 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -199,17 +199,17 @@
 		<category><![CDATA[History]]></category>
 		<category><![CDATA[Nature]]></category>
 
-		<guid isPermaLink="false">/?p=1271</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1271</guid>
 		<description><![CDATA[<p>The archaeological park In this park lived a civilization 2000 years ago. Scientists have not a lot of information about them except that they built a lot of huge statues. The statues were very impressive due to the size and the variety of forms. Although, that Guillaume and I enjoyed a lot the park and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/san-agustin-archaeological-park-coffee-farm/">San Agustin &#8211; The archaeological park and the coffee farm</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/san-agustin-archaeological-park-coffee-farm/">San Agustin &#8211; The archaeological park and the coffee farm</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/san-agustin-archaeological-park-coffee-farm/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/san-agustin-archaeological-park-coffee-farm/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>The white city Popayan</title>
-		<link>/travel/white-city-popayan/%20</link>
-		<comments>/travel/white-city-popayan/%20#respond</comments>
+		<link>/travel-blog/travel/white-city-popayan/%20</link>
+		<comments>/travel-blog/travel/white-city-popayan/%20#respond</comments>
 		<pubDate>Sat, 22 Jul 2017 02:53:52 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -217,11 +217,11 @@
 		<category><![CDATA[Churches]]></category>
 		<category><![CDATA[Food]]></category>
 
-		<guid isPermaLink="false">/?p=1261</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1261</guid>
 		<description><![CDATA[<p>The city I arrived with Guillaume at the terminal at 4am. Why so early ?! Because the bus driver was driving very fast. We took the 10pm bus and with a 8 hours journey, we would have arrived at 6am. However, the bus was rushing all way long. I realized it when I woke up [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/white-city-popayan/">The white city Popayan</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/white-city-popayan/">The white city Popayan</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/white-city-popayan/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/white-city-popayan/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: How to enjoy your stay in Santiago</title>
-	<atom:link href="/travel/enjoy-stay-santiago/content/feed" rel="self" type="application/rss+xml" />
-	<link>/travel/enjoy-stay-santiago/%20</link>
+	<atom:link href="/travel-blog/travel/enjoy-stay-santiago/content/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog/travel/enjoy-stay-santiago/%20</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 15 Aug 2017 13:12:58 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

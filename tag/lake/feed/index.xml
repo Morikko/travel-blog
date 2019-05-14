@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Lake &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/lake/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/lake/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Lake &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Paramo de Oceta</title>
-		<link>/travel/paramo-de-oceta/%20</link>
-		<comments>/travel/paramo-de-oceta/%20#respond</comments>
+		<link>/travel-blog/travel/paramo-de-oceta/%20</link>
+		<comments>/travel-blog/travel/paramo-de-oceta/%20#respond</comments>
 		<pubDate>Mon, 31 Jul 2017 04:09:15 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -38,17 +38,17 @@
 		<category><![CDATA[Paramo]]></category>
 		<category><![CDATA[Trekking]]></category>
 
-		<guid isPermaLink="false">/?p=1330</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1330</guid>
 		<description><![CDATA[<p>The fantastic Paramo de Oceta We left the city of Mongui early in the morning in order to avoid the bad weather as the guides recommended us. If the beginning was alright, we ended under a strong rain all time long. The Paramo de Oceta is located above 3,700 meters high, almost 1,000 meters higher [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/paramo-de-oceta/">Paramo de Oceta</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/paramo-de-oceta/">Paramo de Oceta</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/paramo-de-oceta/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/paramo-de-oceta/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Otavalo region and Cuicocha Lake</title>
-		<link>/travel/otavalo-region-cuicocha-lake/%20</link>
-		<comments>/travel/otavalo-region-cuicocha-lake/%20#respond</comments>
+		<link>/travel-blog/travel/otavalo-region-cuicocha-lake/%20</link>
+		<comments>/travel-blog/travel/otavalo-region-cuicocha-lake/%20#respond</comments>
 		<pubDate>Wed, 12 Jul 2017 20:46:01 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Ecuador]]></category>
@@ -58,17 +58,17 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Volcano]]></category>
 
-		<guid isPermaLink="false">/?p=1224</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1224</guid>
 		<description><![CDATA[<p>Cuicocha Lake Cuicocha lake is located beneath the Cotacachi volcano. Due to the clouds, we didn&#8217;t see it, however, it is a 4600 meters high volcano. The closest town to reach the lake is Quiroga, where taxi or cab can take you for 4$. The lake is surrounded by a trek of 14 kms between [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/otavalo-region-cuicocha-lake/">Otavalo region and Cuicocha Lake</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/otavalo-region-cuicocha-lake/">Otavalo region and Cuicocha Lake</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/otavalo-region-cuicocha-lake/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/otavalo-region-cuicocha-lake/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Into the crater of Quilotoa</title>
-		<link>/travel/into-the-crater-of-quilotoa/%20</link>
-		<comments>/travel/into-the-crater-of-quilotoa/%20#respond</comments>
+		<link>/travel-blog/travel/into-the-crater-of-quilotoa/%20</link>
+		<comments>/travel-blog/travel/into-the-crater-of-quilotoa/%20#respond</comments>
 		<pubDate>Tue, 04 Jul 2017 17:54:55 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Ecuador]]></category>
@@ -78,17 +78,17 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Volcano]]></category>
 
-		<guid isPermaLink="false">/?p=1185</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1185</guid>
 		<description><![CDATA[<p>The Quilotoa lake After crossing the town Quilotoa, I enjoyed the first view of the lake. On top of that, the sun accompanied me all the morning. Not only the sun, there was also a lot of wind. Clouds were crossing the crater in 30 seconds! My first trek was to go into the crater [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/into-the-crater-of-quilotoa/">Into the crater of Quilotoa</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/into-the-crater-of-quilotoa/">Into the crater of Quilotoa</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/into-the-crater-of-quilotoa/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/into-the-crater-of-quilotoa/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Puno: Uros and Taquile Islands</title>
-		<link>/travel/puno-uros-taquile-islands/%20</link>
-		<comments>/travel/puno-uros-taquile-islands/%20#respond</comments>
+		<link>/travel-blog/travel/puno-uros-taquile-islands/%20</link>
+		<comments>/travel-blog/travel/puno-uros-taquile-islands/%20#respond</comments>
 		<pubDate>Sun, 18 Jun 2017 18:27:37 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Peru]]></category>
@@ -99,17 +99,17 @@
 		<category><![CDATA[Lake]]></category>
 		<category><![CDATA[SouthFrance]]></category>
 
-		<guid isPermaLink="false">/?p=1086</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1086</guid>
 		<description><![CDATA[<p>Uros Islands Those islands are made of straw and reed. The community counts tens of islands where around 5 families live on each one. Those islands are located only 20 minutes from the city of Puno. The original indigenous doesn&#8217;t exist anymore, however, Peruvian people has continued the tradition. The explanations were interesting in order [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/puno-uros-taquile-islands/">Puno: Uros and Taquile Islands</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/puno-uros-taquile-islands/">Puno: Uros and Taquile Islands</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/puno-uros-taquile-islands/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/puno-uros-taquile-islands/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>From Tupiza to the Uyuni salt flat</title>
-		<link>/travel/tupiza-uyuni-salt-flat/%20</link>
-		<comments>/travel/tupiza-uyuni-salt-flat/%20#respond</comments>
+		<link>/travel-blog/travel/tupiza-uyuni-salt-flat/%20</link>
+		<comments>/travel-blog/travel/tupiza-uyuni-salt-flat/%20#respond</comments>
 		<pubDate>Thu, 15 Jun 2017 19:52:04 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -122,17 +122,17 @@
 		<category><![CDATA[SaltFlat]]></category>
 		<category><![CDATA[Volcano]]></category>
 
-		<guid isPermaLink="false">/?p=964</guid>
+		<guid isPermaLink="false">/travel-blog/?p=964</guid>
 		<description><![CDATA[<p>Tour I did the tour with Natural Adventure, the agency down the hostel. We were one driver, one cooker (we never saw, but she cooked well!!), and 5 tourists. 4 French and 1 Italian, so we spoke mostly French in the car. Lots of images are better for living this trip. Day 1 &#8211; South [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/tupiza-uyuni-salt-flat/">From Tupiza to the Uyuni salt flat</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/tupiza-uyuni-salt-flat/">From Tupiza to the Uyuni salt flat</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/tupiza-uyuni-salt-flat/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/tupiza-uyuni-salt-flat/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Adventure on top of the mountains: Trekking Cruce Sierra de Marquesado in San Juan</title>
-		<link>/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20</link>
-		<comments>/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20#respond</comments>
+		<link>/travel-blog/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20</link>
+		<comments>/travel-blog/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/%20#respond</comments>
 		<pubDate>Tue, 28 Feb 2017 21:35:51 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -145,17 +145,17 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Vineyard]]></category>
 
-		<guid isPermaLink="false">/?p=767</guid>
+		<guid isPermaLink="false">/travel-blog/?p=767</guid>
 		<description><![CDATA[<p>Ready to discover the region of San Juan with a trek crossing from one valley to another one. It is among my best treks mainly for two reasons: the variety of the landscapes and the adventurous side of the track. Trekking Cruce Sierra de Marquesado The walk The trekking Cruce Sierra de Marquesado is a [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/">Adventure on top of the mountains: Trekking Cruce Sierra de Marquesado in San Juan</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/">Adventure on top of the mountains: Trekking Cruce Sierra de Marquesado in San Juan</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/trekking-cruce-sierra-de-marquesado-in-san-juan/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Discovering San Juan region between vineyards and mountains</title>
-		<link>/travel/san-juan-region/%20</link>
-		<comments>/travel/san-juan-region/%20#respond</comments>
+		<link>/travel-blog/travel/san-juan-region/%20</link>
+		<comments>/travel-blog/travel/san-juan-region/%20#respond</comments>
 		<pubDate>Tue, 21 Feb 2017 21:13:32 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -169,11 +169,11 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=675</guid>
+		<guid isPermaLink="false">/travel-blog/?p=675</guid>
 		<description><![CDATA[<p>San Juan located 200 kms from Mendoza. Beyond the similarities with Mendoza due to the proximity, the region of San Juan has its own particularities. Many mountains and vineyard to discover that create incredible landscapes. Discovering San Juan region You can reach San Juan from Mendoza with a bus that costs 185AR$ and takes 2h30. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/san-juan-region/">Discovering San Juan region between vineyards and mountains</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/san-juan-region/">Discovering San Juan region between vineyards and mountains</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/san-juan-region/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/san-juan-region/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

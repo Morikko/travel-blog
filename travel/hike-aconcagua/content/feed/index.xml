@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: A hike to the Aconcagua, the highest mountain in South America</title>
-	<atom:link href="/travel/hike-aconcagua/content/feed" rel="self" type="application/rss+xml" />
-	<link>/travel/hike-aconcagua/%20</link>
+	<atom:link href="/travel-blog/travel/hike-aconcagua/content/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog/travel/hike-aconcagua/%20</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 15 Aug 2017 13:12:58 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

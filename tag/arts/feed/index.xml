@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Arts &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/arts/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/arts/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Arts &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>My crush on Sucre</title>
-		<link>/travel/my-crush-on-sucre/%20</link>
-		<comments>/travel/my-crush-on-sucre/%20#respond</comments>
+		<link>/travel-blog/travel/my-crush-on-sucre/%20</link>
+		<comments>/travel-blog/travel/my-crush-on-sucre/%20#respond</comments>
 		<pubDate>Thu, 15 Jun 2017 16:36:37 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -41,17 +41,17 @@
 		<category><![CDATA[History]]></category>
 		<category><![CDATA[Salsa]]></category>
 
-		<guid isPermaLink="false">/?p=932</guid>
+		<guid isPermaLink="false">/travel-blog/?p=932</guid>
 		<description><![CDATA[<p>After being sick when I arrived, I continued to suffer due to the altitude. Sucre is located at 2,700 meters high. At the beginning, I got a headache and difficulties to eat. Only after three weeks of being at this altitude or higher, I could be normal again. Aside from this trouble, I was able [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/my-crush-on-sucre/">My crush on Sucre</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/my-crush-on-sucre/">My crush on Sucre</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/my-crush-on-sucre/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/my-crush-on-sucre/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Colchagua wine region on a bus ride</title>
-		<link>/travel/colchagua-wine-region-bus-ride/%20</link>
-		<comments>/travel/colchagua-wine-region-bus-ride/%20#comments</comments>
+		<link>/travel-blog/travel/colchagua-wine-region-bus-ride/%20</link>
+		<comments>/travel-blog/travel/colchagua-wine-region-bus-ride/%20#comments</comments>
 		<pubDate>Tue, 31 Jan 2017 18:15:15 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -59,17 +59,17 @@
 		<category><![CDATA[Arts]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=501</guid>
+		<guid isPermaLink="false">/travel-blog/?p=501</guid>
 		<description><![CDATA[<p>Between Pichilemu and Santiago, I decided to do a break and taste wines in the amazing region of Colchagua. In this article, I explain the smart way for doing it without any car. Also, you will save money and time. And of course, I add my recommendations of what to visit. Colchagua Valley This is [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/colchagua-wine-region-bus-ride/">Colchagua wine region on a bus ride</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/colchagua-wine-region-bus-ride/">Colchagua wine region on a bus ride</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/colchagua-wine-region-bus-ride/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/colchagua-wine-region-bus-ride/content/feed</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>How to enjoy your stay in Santiago</title>
-		<link>/travel/enjoy-stay-santiago/%20</link>
-		<comments>/travel/enjoy-stay-santiago/%20#respond</comments>
+		<link>/travel-blog/travel/enjoy-stay-santiago/%20</link>
+		<comments>/travel-blog/travel/enjoy-stay-santiago/%20#respond</comments>
 		<pubDate>Sat, 28 Jan 2017 23:54:21 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -87,11 +87,11 @@
 		<category><![CDATA[Surf]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=435</guid>
+		<guid isPermaLink="false">/travel-blog/?p=435</guid>
 		<description><![CDATA[<p>Santiago is a huge city, almost half of the population of Chile lives there. Big, hot in summer and polluted, Santiago has a lot for frightening. However, I stayed a long time in Santiago. The main reason is that I have met a lot of friends during my last student exchange. But not only my [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

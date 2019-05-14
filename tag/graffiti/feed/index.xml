@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Graffiti &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/graffiti/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/graffiti/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Graffiti &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Cartagena</title>
-		<link>/travel/cartagena/%20</link>
-		<comments>/travel/cartagena/%20#respond</comments>
+		<link>/travel-blog/travel/cartagena/%20</link>
+		<comments>/travel-blog/travel/cartagena/%20#respond</comments>
 		<pubDate>Mon, 31 Jul 2017 05:21:53 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -39,17 +39,17 @@
 		<category><![CDATA[Hot]]></category>
 		<category><![CDATA[Sea]]></category>
 
-		<guid isPermaLink="false">/?p=1363</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1363</guid>
 		<description><![CDATA[<p>Cartagena The first impression when I arrived was about the temperature. It was humid and hot. Also, the atmosphere changed completely. People were more relaxed the day and more crazy the night. The next day, we visited the city. Hopefully, some clouds protected us against a very hot day. The city was very colonial and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/cartagena/">Cartagena</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/cartagena/">Cartagena</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/cartagena/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/cartagena/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Bogota and the salt cathedral</title>
-		<link>/travel/bogota-salt-cathedral/%20</link>
-		<comments>/travel/bogota-salt-cathedral/%20#respond</comments>
+		<link>/travel-blog/travel/bogota-salt-cathedral/%20</link>
+		<comments>/travel-blog/travel/bogota-salt-cathedral/%20#respond</comments>
 		<pubDate>Mon, 31 Jul 2017 04:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Colombia]]></category>
@@ -59,17 +59,17 @@
 		<category><![CDATA[Dancing]]></category>
 		<category><![CDATA[Graffiti]]></category>
 
-		<guid isPermaLink="false">/?p=1348</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1348</guid>
 		<description><![CDATA[<p>The salt cathedral This impressive building is located 47 kms from Bogota in another town called Zipaquira. It has been built inside a salt mine currently still under activity. Thus, the cathedral is below 180 meters of earth. An incredible lighting effect made the rooms very beautiful. In the colossus Colombian capital A really big [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/bogota-salt-cathedral/">Bogota and the salt cathedral</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/bogota-salt-cathedral/">Bogota and the salt cathedral</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/bogota-salt-cathedral/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/bogota-salt-cathedral/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>One day in Valparaiso &#038; Viña del Mar</title>
-		<link>/travel/day-valparaiso-vina-del-mar/%20</link>
-		<comments>/travel/day-valparaiso-vina-del-mar/%20#respond</comments>
+		<link>/travel-blog/travel/day-valparaiso-vina-del-mar/%20</link>
+		<comments>/travel-blog/travel/day-valparaiso-vina-del-mar/%20#respond</comments>
 		<pubDate>Sun, 29 Jan 2017 15:19:25 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -79,17 +79,17 @@
 		<category><![CDATA[Food]]></category>
 		<category><![CDATA[Graffiti]]></category>
 
-		<guid isPermaLink="false">/?p=432</guid>
+		<guid isPermaLink="false">/travel-blog/?p=432</guid>
 		<description><![CDATA[<p>I arrived at 8 in the morning in Santiago from Pucon. My friend took me from the terminal and we went to his home. Just the time to change me and ate a breakfast. Next, we took the car directly to Valparaiso. After one hour of driving in a dry landscape, we reached the city. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/day-valparaiso-vina-del-mar/">One day in Valparaiso &#038; Viña del Mar</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/day-valparaiso-vina-del-mar/">One day in Valparaiso &#038; Viña del Mar</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/day-valparaiso-vina-del-mar/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/day-valparaiso-vina-del-mar/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>How to enjoy your stay in Santiago</title>
-		<link>/travel/enjoy-stay-santiago/%20</link>
-		<comments>/travel/enjoy-stay-santiago/%20#respond</comments>
+		<link>/travel-blog/travel/enjoy-stay-santiago/%20</link>
+		<comments>/travel-blog/travel/enjoy-stay-santiago/%20#respond</comments>
 		<pubDate>Sat, 28 Jan 2017 23:54:21 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Chile]]></category>
@@ -107,11 +107,11 @@
 		<category><![CDATA[Surf]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=435</guid>
+		<guid isPermaLink="false">/travel-blog/?p=435</guid>
 		<description><![CDATA[<p>Santiago is a huge city, almost half of the population of Chile lives there. Big, hot in summer and polluted, Santiago has a lot for frightening. However, I stayed a long time in Santiago. The main reason is that I have met a lot of friends during my last student exchange. But not only my [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/enjoy-stay-santiago/">How to enjoy your stay in Santiago</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/enjoy-stay-santiago/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

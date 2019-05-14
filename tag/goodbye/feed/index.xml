@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Goodbye &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/goodbye/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/goodbye/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,27 +19,27 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Goodbye &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Good bye my journey, you were an incredible experience</title>
-		<link>/news/good-bye-journey-incredible-experience/%20</link>
-		<comments>/news/good-bye-journey-incredible-experience/%20#respond</comments>
+		<link>/travel-blog/news/good-bye-journey-incredible-experience/%20</link>
+		<comments>/travel-blog/news/good-bye-journey-incredible-experience/%20#respond</comments>
 		<pubDate>Tue, 10 Oct 2017 22:03:23 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[Travel]]></category>
 		<category><![CDATA[Goodbye]]></category>
 
-		<guid isPermaLink="false">/?p=1393</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1393</guid>
 		<description><![CDATA[<p>I took part in a journey that sent me much further than I hoped. Now, my head is full of souvenirs, my heart is full of friendships. Yes a page has been written, but a page worth to be written. A journey where I traveled&#8230; Across all(most) South America 8 Countries Facts 15798 kms 298 [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/news/good-bye-journey-incredible-experience/">Good bye my journey, you were an incredible experience</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/news/good-bye-journey-incredible-experience/">Good bye my journey, you were an incredible experience</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/news/good-bye-journey-incredible-experience/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/news/good-bye-journey-incredible-experience/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

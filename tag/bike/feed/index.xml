@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Bike &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/bike/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/bike/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Bike &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mountain biking down on the Chimborazo</title>
-		<link>/travel/mountain-biking-chimborazo/%20</link>
-		<comments>/travel/mountain-biking-chimborazo/%20#respond</comments>
+		<link>/travel-blog/travel/mountain-biking-chimborazo/%20</link>
+		<comments>/travel-blog/travel/mountain-biking-chimborazo/%20#respond</comments>
 		<pubDate>Tue, 04 Jul 2017 15:41:25 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Ecuador]]></category>
@@ -40,17 +40,17 @@
 		<category><![CDATA[Mountains]]></category>
 		<category><![CDATA[Volcano]]></category>
 
-		<guid isPermaLink="false">/?p=1161</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1161</guid>
 		<description><![CDATA[<p>During my stay in Riobamba, I took one day for visiting the Chimborazo. It is the highest volcano in Ecuador with 6300 meters high. There are 2 refuges at respectively 5000 and 5100 meters high. From the first refuge, a friend and I went down with mountain bike. The goal San Juan. A city located [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/mountain-biking-chimborazo/">Mountain biking down on the Chimborazo</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/mountain-biking-chimborazo/">Mountain biking down on the Chimborazo</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/mountain-biking-chimborazo/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/mountain-biking-chimborazo/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Death Road on bike: From 4700 meters to 1600 meters</title>
-		<link>/uncategorized/death-road-bike-4700-meters-1600-meters/%20</link>
-		<comments>/uncategorized/death-road-bike-4700-meters-1600-meters/%20#respond</comments>
+		<link>/travel-blog/uncategorized/death-road-bike-4700-meters-1600-meters/%20</link>
+		<comments>/travel-blog/uncategorized/death-road-bike-4700-meters-1600-meters/%20#respond</comments>
 		<pubDate>Fri, 16 Jun 2017 15:17:05 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -62,17 +62,17 @@
 		<category><![CDATA[Mountains]]></category>
 		<category><![CDATA[Zipline]]></category>
 
-		<guid isPermaLink="false">/?p=1056</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1056</guid>
 		<description><![CDATA[<p>The Death Road is the previous main road between the Altiplano and the Amazonian jungle. Made of earth, narrow, wet, everything for creating a dangerous road. Many accidents occurred for the condition reasons or for the craziness of the Bolivian drivers. Now, a newly paved road replaces this old one. The top The initial part [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/uncategorized/death-road-bike-4700-meters-1600-meters/">Death Road on bike: From 4700 meters to 1600 meters</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/uncategorized/death-road-bike-4700-meters-1600-meters/">Death Road on bike: From 4700 meters to 1600 meters</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/uncategorized/death-road-bike-4700-meters-1600-meters/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/uncategorized/death-road-bike-4700-meters-1600-meters/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>A bike tour in the wineries of Mendoza</title>
-		<link>/travel/bike-tour-wineries-mendoza/%20</link>
-		<comments>/travel/bike-tour-wineries-mendoza/%20#respond</comments>
+		<link>/travel-blog/travel/bike-tour-wineries-mendoza/%20</link>
+		<comments>/travel-blog/travel/bike-tour-wineries-mendoza/%20#respond</comments>
 		<pubDate>Sun, 12 Feb 2017 03:18:30 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -80,17 +80,17 @@
 		<category><![CDATA[Bike]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=663</guid>
+		<guid isPermaLink="false">/travel-blog/?p=663</guid>
 		<description><![CDATA[<p>My first wish when I arrived in Mendoza was to taste the Argentinian wine. When I heard I can book a bike and move to the different wineries by myself, I jumped on the occasion. Let&#8217;s taste some wines! Get Your Bike I took my bike at Mr. Hugo Bike rental located in the Maipu [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/bike-tour-wineries-mendoza/">A bike tour in the wineries of Mendoza</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/bike-tour-wineries-mendoza/">A bike tour in the wineries of Mendoza</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/bike-tour-wineries-mendoza/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/bike-tour-wineries-mendoza/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Discovering Mendoza during a hot summer</title>
-		<link>/travel/discovering-mendoza/%20</link>
-		<comments>/travel/discovering-mendoza/%20#respond</comments>
+		<link>/travel-blog/travel/discovering-mendoza/%20</link>
+		<comments>/travel-blog/travel/discovering-mendoza/%20#respond</comments>
 		<pubDate>Fri, 10 Feb 2017 00:12:49 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -100,11 +100,11 @@
 		<category><![CDATA[Trekking]]></category>
 		<category><![CDATA[Wine]]></category>
 
-		<guid isPermaLink="false">/?p=652</guid>
+		<guid isPermaLink="false">/travel-blog/?p=652</guid>
 		<description><![CDATA[<p>Welcome to Mendoza, a hot and dry city where the grape is the king. During my stay, I not only compared the Argentinian wine to the Chilean wine. I also discovered the most impressive mountain in South America, Aconcagua. Last but not least, Mendoza is a great place for Tango. About the city The weather [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/discovering-mendoza/">Discovering Mendoza during a hot summer</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/discovering-mendoza/">Discovering Mendoza during a hot summer</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/discovering-mendoza/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/discovering-mendoza/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

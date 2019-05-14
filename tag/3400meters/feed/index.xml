@@ -9,8 +9,8 @@
 
 <channel>
 	<title>3400meters &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/3400meters/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/3400meters/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>3400meters &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A hike to the Aconcagua, the highest mountain in South America</title>
-		<link>/travel/hike-aconcagua/%20</link>
-		<comments>/travel/hike-aconcagua/%20#respond</comments>
+		<link>/travel-blog/travel/hike-aconcagua/%20</link>
+		<comments>/travel-blog/travel/hike-aconcagua/%20#respond</comments>
 		<pubDate>Fri, 17 Feb 2017 18:54:25 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -39,11 +39,11 @@
 		<category><![CDATA[HighestMountain]]></category>
 		<category><![CDATA[Trekking]]></category>
 
-		<guid isPermaLink="false">/?p=661</guid>
+		<guid isPermaLink="false">/travel-blog/?p=661</guid>
 		<description><![CDATA[<p>After crossing the Andes a first time during my way from Santiago to Mendoza, I decided to come back to the Andes. At an altitude of 3000 meters, a trek starts to the first base camp on the way to the Aconcagua. Aconcagua is the highest mountain in South America with 6 962 meters high. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/hike-aconcagua/">A hike to the Aconcagua, the highest mountain in South America</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/hike-aconcagua/">A hike to the Aconcagua, the highest mountain in South America</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/hike-aconcagua/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/hike-aconcagua/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

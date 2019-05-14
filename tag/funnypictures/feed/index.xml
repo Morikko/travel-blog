@@ -9,8 +9,8 @@
 
 <channel>
 	<title>FunnyPictures &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/funnypictures/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/funnypictures/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>FunnyPictures &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>From Tupiza to the Uyuni salt flat</title>
-		<link>/travel/tupiza-uyuni-salt-flat/%20</link>
-		<comments>/travel/tupiza-uyuni-salt-flat/%20#respond</comments>
+		<link>/travel-blog/travel/tupiza-uyuni-salt-flat/%20</link>
+		<comments>/travel-blog/travel/tupiza-uyuni-salt-flat/%20#respond</comments>
 		<pubDate>Thu, 15 Jun 2017 19:52:04 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Bolivia]]></category>
@@ -41,11 +41,11 @@
 		<category><![CDATA[SaltFlat]]></category>
 		<category><![CDATA[Volcano]]></category>
 
-		<guid isPermaLink="false">/?p=964</guid>
+		<guid isPermaLink="false">/travel-blog/?p=964</guid>
 		<description><![CDATA[<p>Tour I did the tour with Natural Adventure, the agency down the hostel. We were one driver, one cooker (we never saw, but she cooked well!!), and 5 tourists. 4 French and 1 Italian, so we spoke mostly French in the car. Lots of images are better for living this trip. Day 1 &#8211; South [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/tupiza-uyuni-salt-flat/">From Tupiza to the Uyuni salt flat</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/tupiza-uyuni-salt-flat/">From Tupiza to the Uyuni salt flat</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/tupiza-uyuni-salt-flat/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/tupiza-uyuni-salt-flat/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

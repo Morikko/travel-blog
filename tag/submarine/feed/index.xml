@@ -9,8 +9,8 @@
 
 <channel>
 	<title>SubMarine &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/submarine/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/submarine/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>SubMarine &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ischigualasto Park: a journey to the moon</title>
-		<link>/travel/ischigualasto-park-a-journey-to-the-moon/%20</link>
-		<comments>/travel/ischigualasto-park-a-journey-to-the-moon/%20#respond</comments>
+		<link>/travel-blog/travel/ischigualasto-park-a-journey-to-the-moon/%20</link>
+		<comments>/travel-blog/travel/ischigualasto-park-a-journey-to-the-moon/%20#respond</comments>
 		<pubDate>Wed, 01 Mar 2017 20:41:43 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Argentina]]></category>
@@ -41,11 +41,11 @@
 		<category><![CDATA[Rocks]]></category>
 		<category><![CDATA[SubMarine]]></category>
 
-		<guid isPermaLink="false">/?p=799</guid>
+		<guid isPermaLink="false">/travel-blog/?p=799</guid>
 		<description><![CDATA[<p>Ischigualasto park is a million-years-old park with many landscapes and sculpted rocks. Located close to another famous park called Talampaya, Ischigualasto park will make you believe in visiting the moon. I took advantage to be in San Juan for visiting the park. Ischigualasto Park Presentation Ischigualasto park also called Valle de la Luna ( Moon [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/travel/ischigualasto-park-a-journey-to-the-moon/">Ischigualasto Park: a journey to the moon</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/travel/ischigualasto-park-a-journey-to-the-moon/">Ischigualasto Park: a journey to the moon</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/travel/ischigualasto-park-a-journey-to-the-moon/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/travel/ischigualasto-park-a-journey-to-the-moon/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

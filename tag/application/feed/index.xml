@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Application &#8211; Vamos a Bailar</title>
-	<atom:link href="/tag/application/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/travel-blog/tag/application/feed" rel="self" type="application/rss+xml" />
+	<link>/travel-blog</link>
 	<description>A traveling blog for discovering South America</description>
 	<lastBuildDate>Tue, 10 Oct 2017 22:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 
 <image>
-	<url>/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
+	<url>/travel-blog/wp-content/uploads/2016/12/salsa_icon-150x150.png</url>
 	<title>Application &#8211; Vamos a Bailar</title>
-	<link></link>
+	<link>/travel-blog</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How to learn Spanish during a journey in South America</title>
-		<link>/culture/learn-spanish-journey-south-america/%20</link>
-		<comments>/culture/learn-spanish-journey-south-america/%20#respond</comments>
+		<link>/travel-blog/culture/learn-spanish-journey-south-america/%20</link>
+		<comments>/travel-blog/culture/learn-spanish-journey-south-america/%20#respond</comments>
 		<pubDate>Tue, 10 Oct 2017 17:34:39 +0000</pubDate>
 		<dc:creator><![CDATA[eric]]></dc:creator>
 				<category><![CDATA[Culture]]></category>
@@ -37,11 +37,11 @@
 		<category><![CDATA[Spanish]]></category>
 		<category><![CDATA[Speaking]]></category>
 
-		<guid isPermaLink="false">/?p=1396</guid>
+		<guid isPermaLink="false">/travel-blog/?p=1396</guid>
 		<description><![CDATA[<p>I have been around 9 months in Latino South America countries. All the time, I practiced and learned the Spanish language. I began the journey by knowing just a few words. And I ended the journey, by being fluent in Spanish. This is my guide to learn a language while practicing and using smartphone applications [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/culture/learn-spanish-journey-south-america/">How to learn Spanish during a journey in South America</a> appeared first on <a rel="nofollow" href="">Vamos a Bailar</a>.</p>
+<p>The post <a rel="nofollow" href="/travel-blog/culture/learn-spanish-journey-south-america/">How to learn Spanish during a journey in South America</a> appeared first on <a rel="nofollow" href="/travel-blog">Vamos a Bailar</a>.</p>
 ]]></description>
-		<wfw:commentRss>/culture/learn-spanish-journey-south-america/content/feed</wfw:commentRss>
+		<wfw:commentRss>/travel-blog/culture/learn-spanish-journey-south-america/content/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
