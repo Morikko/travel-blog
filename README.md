@@ -1,4 +1,7 @@
 # Blog
+
+![Me in front of a lake](/wp-content/uploads/2017/10/IMG_20161210_134256-e1507672696125-888x550.jpg)
+
 Discover it: https://morikko.github.io/travel-blog/
 
 This blog is about my trip to South America. I describe the places I discovered, the culture I met and the activities I did.
@@ -50,6 +53,10 @@ For a library to be well fetched:
 -  Replace "\/wp-includes\/js\/wp-emoji-release.min.js" with "\/<subdomain>\/wp-includes\/js\/wp-emoji-release.min.js"
 
 ## About the map
-The API key is outdated and thus Google Maps is complaining. However, you still can see the complete route I took. Each point is linked to an article. Sadly, the image preview is also broken...
+The API key is outdated and thus Google Maps is complaining but you can use the map.
+In order to fix the article links and image previews:
+-  Replace "https:\/\/travel.emasseran.org" with "\/travel-blog"
+
+![In front of the Perito Moreno](/wp-content/uploads/2017/01/IMG_20161208_142910-1024x758.jpg)
 
 I hope you will enjoy my blog as much as I loved my trip! :)
